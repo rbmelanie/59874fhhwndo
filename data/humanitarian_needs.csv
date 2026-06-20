@@ -1,0 +1,442 @@
+location_code,location_name,admin1_code,admin1_name,admin_level,sector_code,sector_name,population_status,population,reference_period_start,reference_period_end,lon,lat
+SDN,Sudan,SD-KH,Khartoum,1,Intersectoral,Intersectoral,INN,7055152,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,Food Security,Food Security,INN,6064845,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,Health,Health,INN,4287636,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,WASH,WASH,INN,4287661,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,Protection,Protection,INN,3623373,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,Shelter & NFI,Shelter & NFI,INN,2956817,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,Education,Education,INN,2699301,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,Nutrition,Nutrition,INN,4010053,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,1,CCCM,CCCM,INN,2097400,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-GZ,Gezira,1,Intersectoral,Intersectoral,INN,2879869,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,Food Security,Food Security,INN,2759280,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,Health,Health,INN,1875648,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,WASH,WASH,INN,1700889,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,Protection,Protection,INN,1351941,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,Shelter & NFI,Shelter & NFI,INN,1438651,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,Education,Education,INN,1202116,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,Nutrition,Nutrition,INN,1689408,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,1,CCCM,CCCM,INN,889140,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-KA,Kassala,1,Intersectoral,Intersectoral,INN,1384952,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,Food Security,Food Security,INN,1262579,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,Health,Health,INN,844830,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,WASH,WASH,INN,843427,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,Protection,Protection,INN,678978,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,Shelter & NFI,Shelter & NFI,INN,587662,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,Education,Education,INN,533926,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,Nutrition,Nutrition,INN,699007,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,1,CCCM,CCCM,INN,388803,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-RS,Red Sea,1,Intersectoral,Intersectoral,INN,814070,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,Food Security,Food Security,INN,662237,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,Health,Health,INN,575576,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,WASH,WASH,INN,488623,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,Protection,Protection,INN,407019,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,Shelter & NFI,Shelter & NFI,INN,418003,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,Education,Education,INN,342348,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,Nutrition,Nutrition,INN,453930,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,1,CCCM,CCCM,INN,249061,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-NO,Northern,1,Intersectoral,Intersectoral,INN,395749,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,Food Security,Food Security,INN,373290,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,Health,Health,INN,256518,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,WASH,WASH,INN,264019,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,Protection,Protection,INN,198558,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,Shelter & NFI,Shelter & NFI,INN,200298,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,Education,Education,INN,160263,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,Nutrition,Nutrition,INN,207264,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,1,CCCM,CCCM,INN,110331,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-RV,River Nile,1,Intersectoral,Intersectoral,INN,806063,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,Food Security,Food Security,INN,643824,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,Health,Health,INN,491852,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,WASH,WASH,INN,477924,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,Protection,Protection,INN,424605,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,Shelter & NFI,Shelter & NFI,INN,398294,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,Education,Education,INN,323880,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,Nutrition,Nutrition,INN,403329,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,1,CCCM,CCCM,INN,231469,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-NB,North Darfur,1,Intersectoral,Intersectoral,INN,2280000,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,Food Security,Food Security,INN,1894898,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,Health,Health,INN,1583497,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,WASH,WASH,INN,1352430,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,Protection,Protection,INN,1153576,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,Shelter & NFI,Shelter & NFI,INN,1051000,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,Education,Education,INN,1020364,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,Nutrition,Nutrition,INN,1355685,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,1,CCCM,CCCM,INN,638012,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-SB,South Darfur,1,Intersectoral,Intersectoral,INN,3895000,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,Food Security,Food Security,INN,3592366,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,Health,Health,INN,2648957,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,WASH,WASH,INN,2663764,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,Protection,Protection,INN,2010903,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,Shelter & NFI,Shelter & NFI,INN,1622485,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,Education,Education,INN,1532205,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,Nutrition,Nutrition,INN,1929034,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,1,CCCM,CCCM,INN,1250700,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-WB,West Darfur,1,Intersectoral,Intersectoral,INN,1235000,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,Food Security,Food Security,INN,981497,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,Health,Health,INN,878709,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,WASH,WASH,INN,842459,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,Protection,Protection,INN,583989,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,Shelter & NFI,Shelter & NFI,INN,571900,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,Education,Education,INN,509787,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,Nutrition,Nutrition,INN,646827,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,1,CCCM,CCCM,INN,392224,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,Intersectoral,Intersectoral,INN,1045000,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,Food Security,Food Security,INN,901427,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,Health,Health,INN,707460,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,WASH,WASH,INN,621207,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,Protection,Protection,INN,505014,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,Shelter & NFI,Shelter & NFI,INN,469865,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,Education,Education,INN,434818,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,Nutrition,Nutrition,INN,543079,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,1,CCCM,CCCM,INN,289625,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-EB,East Darfur,1,Intersectoral,Intersectoral,INN,419916,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,Food Security,Food Security,INN,344927,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,Health,Health,INN,261308,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,WASH,WASH,INN,296137,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,Protection,Protection,INN,218638,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,Shelter & NFI,Shelter & NFI,INN,194346,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,Education,Education,INN,181814,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,Nutrition,Nutrition,INN,246351,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,1,CCCM,CCCM,INN,115605,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-NK,North Kordofan,1,Intersectoral,Intersectoral,INN,1497450,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,Food Security,Food Security,INN,1281940,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,Health,Health,INN,975859,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,WASH,WASH,INN,1041008,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,Protection,Protection,INN,727543,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,Shelter & NFI,Shelter & NFI,INN,651601,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,Education,Education,INN,605090,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,Nutrition,Nutrition,INN,811525,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,1,CCCM,CCCM,INN,420438,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-SK,South Kordofan,1,Intersectoral,Intersectoral,INN,1425000,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,Food Security,Food Security,INN,1368420,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,Health,Health,INN,1047437,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,WASH,WASH,INN,988127,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,Protection,Protection,INN,679670,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,Shelter & NFI,Shelter & NFI,INN,661332,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,Education,Education,INN,547032,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,Nutrition,Nutrition,INN,768816,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,1,CCCM,CCCM,INN,380667,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-WK,West Kordofan,1,Intersectoral,Intersectoral,INN,759147,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,Food Security,Food Security,INN,671284,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,Health,Health,INN,535588,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,WASH,WASH,INN,454768,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,Protection,Protection,INN,372774,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,Shelter & NFI,Shelter & NFI,INN,388253,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,Education,Education,INN,315280,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,Nutrition,Nutrition,INN,422005,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,1,CCCM,CCCM,INN,235240,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WH,White Nile,1,Intersectoral,Intersectoral,INN,714578,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,Food Security,Food Security,INN,637036,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,Health,Health,INN,499761,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,WASH,WASH,INN,435883,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,Protection,Protection,INN,337243,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,Shelter & NFI,Shelter & NFI,INN,359967,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,Education,Education,INN,276309,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,Nutrition,Nutrition,INN,401567,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,1,CCCM,CCCM,INN,215732,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-SI,Sennar,1,Intersectoral,Intersectoral,INN,669132,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,Food Security,Food Security,INN,605959,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,Health,Health,INN,432325,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,WASH,WASH,INN,415531,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,Protection,Protection,INN,361466,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,Shelter & NFI,Shelter & NFI,INN,283450,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,Education,Education,INN,270939,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,Nutrition,Nutrition,INN,407381,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,1,CCCM,CCCM,INN,217640,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-GD,Blue Nile,1,Intersectoral,Intersectoral,INN,477077,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,Food Security,Food Security,INN,446262,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,Health,Health,INN,335577,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,WASH,WASH,INN,315437,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,Protection,Protection,INN,269844,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,Shelter & NFI,Shelter & NFI,INN,229278,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,Education,Education,INN,174692,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,Nutrition,Nutrition,INN,280418,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,1,CCCM,CCCM,INN,134565,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-AJ,Al Jazirah,1,Intersectoral,Intersectoral,INN,421625,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,Food Security,Food Security,INN,385382,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,Health,Health,INN,266640,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,WASH,WASH,INN,280067,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,Protection,Protection,INN,205546,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,Shelter & NFI,Shelter & NFI,INN,195792,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,Education,Education,INN,186931,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,Nutrition,Nutrition,INN,249242,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,1,CCCM,CCCM,INN,113510,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,,,0,Intersectoral,Intersectoral,INN,28174780,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,Food Security,Food Security,INN,24877453,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,Health,Health,INN,18505178,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,WASH,WASH,INN,17769361,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,Protection,Protection,INN,14110680,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,Shelter & NFI,Shelter & NFI,INN,12678994,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,Education,Education,INN,11317095,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,Nutrition,Nutrition,INN,15524921,2026-01-01,2026-12-31,,
+SDN,Sudan,,,0,CCCM,CCCM,INN,8370162,2026-01-01,2026-12-31,,
+SSD,South Sudan,SS-EC,Central Equatoria,1,Intersectoral,Intersectoral,INN,849655,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,Food Security,Food Security,INN,731293,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,Health,Health,INN,513933,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,WASH,WASH,INN,499795,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,Protection,Protection,INN,471027,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,Shelter & NFI,Shelter & NFI,INN,429147,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,Education,Education,INN,350415,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,Nutrition,Nutrition,INN,501137,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,1,CCCM,CCCM,INN,254569,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,Intersectoral,Intersectoral,INN,566241,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,Food Security,Food Security,INN,468798,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,Health,Health,INN,349991,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,WASH,WASH,INN,387363,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,Protection,Protection,INN,313973,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,Shelter & NFI,Shelter & NFI,INN,258389,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,Education,Education,INN,237185,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,Nutrition,Nutrition,INN,289308,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,1,CCCM,CCCM,INN,181849,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-WE,Western Equatoria,1,Intersectoral,Intersectoral,INN,424041,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,Food Security,Food Security,INN,394193,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,Health,Health,INN,307937,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,WASH,WASH,INN,291851,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,Protection,Protection,INN,206853,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,Shelter & NFI,Shelter & NFI,INN,209333,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,Education,Education,INN,158928,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,Nutrition,Nutrition,INN,251953,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,1,CCCM,CCCM,INN,134307,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-JG,Jonglei,1,Intersectoral,Intersectoral,INN,1038550,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,Food Security,Food Security,INN,874874,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,Health,Health,INN,754234,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,WASH,WASH,INN,736848,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,Protection,Protection,INN,508002,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,Shelter & NFI,Shelter & NFI,INN,497844,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,Education,Education,INN,415287,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,Nutrition,Nutrition,INN,630206,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,1,CCCM,CCCM,INN,308184,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-LK,Lakes,1,Intersectoral,Intersectoral,INN,427472,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,Food Security,Food Security,INN,391586,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,Health,Health,INN,277019,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,WASH,WASH,INN,282321,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,Protection,Protection,INN,219820,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,Shelter & NFI,Shelter & NFI,INN,194178,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,Education,Education,INN,177437,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,Nutrition,Nutrition,INN,223374,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,1,CCCM,CCCM,INN,131423,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-NU,Upper Nile,1,Intersectoral,Intersectoral,INN,741425,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,Food Security,Food Security,INN,670411,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,Health,Health,INN,482214,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,WASH,WASH,INN,460196,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,Protection,Protection,INN,408217,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,Shelter & NFI,Shelter & NFI,INN,361100,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,Education,Education,INN,290140,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,Nutrition,Nutrition,INN,392122,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,1,CCCM,CCCM,INN,214138,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-UY,Unity,1,Intersectoral,Intersectoral,INN,836000,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,Food Security,Food Security,INN,700045,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,Health,Health,INN,569572,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,WASH,WASH,INN,483254,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,Protection,Protection,INN,409628,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,Shelter & NFI,Shelter & NFI,INN,383413,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,Education,Education,INN,347256,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,Nutrition,Nutrition,INN,475638,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,1,CCCM,CCCM,INN,244387,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-WR,Warrap,1,Intersectoral,Intersectoral,INN,726225,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,Food Security,Food Security,INN,652484,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,Health,Health,INN,472842,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,WASH,WASH,INN,500590,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,Protection,Protection,INN,392250,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,Shelter & NFI,Shelter & NFI,INN,350355,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,Education,Education,INN,279465,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,Nutrition,Nutrition,INN,374804,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,1,CCCM,CCCM,INN,192460,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,Intersectoral,Intersectoral,INN,373052,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,Food Security,Food Security,INN,325661,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,Health,Health,INN,238061,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,WASH,WASH,INN,248909,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,Protection,Protection,INN,171454,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,Shelter & NFI,Shelter & NFI,INN,182830,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,Education,Education,INN,161055,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,Nutrition,Nutrition,INN,188527,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,1,CCCM,CCCM,INN,108132,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,Intersectoral,Intersectoral,INN,253406,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,Food Security,Food Security,INN,229290,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,Health,Health,INN,188478,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,WASH,WASH,INN,166989,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,Protection,Protection,INN,142313,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,Shelter & NFI,Shelter & NFI,INN,127681,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,Education,Education,INN,105971,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,Nutrition,Nutrition,INN,146072,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,1,CCCM,CCCM,INN,74703,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,,,0,Intersectoral,Intersectoral,INN,6236067,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,Food Security,Food Security,INN,5438635,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,Health,Health,INN,4154281,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,WASH,WASH,INN,4058116,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,Protection,Protection,INN,3243537,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,Shelter & NFI,Shelter & NFI,INN,2994270,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,Education,Education,INN,2523139,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,Nutrition,Nutrition,INN,3473141,2026-01-01,2026-12-31,,
+SSD,South Sudan,,,0,CCCM,CCCM,INN,1844152,2026-01-01,2026-12-31,,
+SOM,Somalia,SO-BN,Banadir,1,Intersectoral,Intersectoral,INN,915162,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,Food Security,Food Security,INN,844611,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,Health,Health,INN,620044,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,WASH,WASH,INN,606970,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,Protection,Protection,INN,447199,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,Shelter & NFI,Shelter & NFI,INN,388114,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,Education,Education,INN,356979,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,Nutrition,Nutrition,INN,480019,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,1,CCCM,CCCM,INN,259285,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-LJ,Lower Juba,1,Intersectoral,Intersectoral,INN,359837,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,Food Security,Food Security,INN,308920,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,Health,Health,INN,227730,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,WASH,WASH,INN,228546,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,Protection,Protection,INN,200329,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,Shelter & NFI,Shelter & NFI,INN,170469,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,Education,Education,INN,153044,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,Nutrition,Nutrition,INN,213160,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,1,CCCM,CCCM,INN,111897,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-MJ,Middle Juba,1,Intersectoral,Intersectoral,INN,232474,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,Food Security,Food Security,INN,205155,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,Health,Health,INN,160212,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,WASH,WASH,INN,141342,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,Protection,Protection,INN,112214,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,Shelter & NFI,Shelter & NFI,INN,106754,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,Education,Education,INN,85549,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,Nutrition,Nutrition,INN,123674,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,1,CCCM,CCCM,INN,71045,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-GD,Gedo,1,Intersectoral,Intersectoral,INN,347972,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,Food Security,Food Security,INN,273849,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,Health,Health,INN,241760,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,WASH,WASH,INN,207549,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,Protection,Protection,INN,177070,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,Shelter & NFI,Shelter & NFI,INN,146645,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,Education,Education,INN,138528,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,Nutrition,Nutrition,INN,180093,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,1,CCCM,CCCM,INN,98742,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-BY,Bay,1,Intersectoral,Intersectoral,INN,261417,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,Food Security,Food Security,INN,252524,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,Health,Health,INN,170756,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,WASH,WASH,INN,174213,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,Protection,Protection,INN,142046,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,Shelter & NFI,Shelter & NFI,INN,125577,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,Education,Education,INN,112504,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,Nutrition,Nutrition,INN,157674,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,1,CCCM,CCCM,INN,72114,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BK,Bakool,1,Intersectoral,Intersectoral,INN,292960,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,Food Security,Food Security,INN,238139,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,Health,Health,INN,202063,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,WASH,WASH,INN,199130,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,Protection,Protection,INN,138092,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,Shelter & NFI,Shelter & NFI,INN,145540,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,Education,Education,INN,131382,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,Nutrition,Nutrition,INN,148102,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,1,CCCM,CCCM,INN,77661,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-SH,Lower Shabelle,1,Intersectoral,Intersectoral,INN,682484,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,Food Security,Food Security,INN,546498,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,Health,Health,INN,486742,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,WASH,WASH,INN,473398,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,Protection,Protection,INN,357515,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,Shelter & NFI,Shelter & NFI,INN,292351,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,Education,Education,INN,307193,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,Nutrition,Nutrition,INN,398424,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,1,CCCM,CCCM,INN,194526,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-WS,Hiraan,1,Intersectoral,Intersectoral,INN,195252,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,Food Security,Food Security,INN,175521,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,Health,Health,INN,140811,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,WASH,WASH,INN,131637,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,Protection,Protection,INN,98803,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,Shelter & NFI,Shelter & NFI,INN,95363,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,Education,Education,INN,87576,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,Nutrition,Nutrition,INN,102376,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,1,CCCM,CCCM,INN,61232,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-GA,Galguduud,1,Intersectoral,Intersectoral,INN,239697,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,Food Security,Food Security,INN,226326,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,Health,Health,INN,152957,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,WASH,WASH,INN,153693,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,Protection,Protection,INN,125820,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,Shelter & NFI,Shelter & NFI,INN,108736,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,Education,Education,INN,88200,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,Nutrition,Nutrition,INN,141831,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,1,CCCM,CCCM,INN,65862,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-MU,Mudug,1,Intersectoral,Intersectoral,INN,235972,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,Food Security,Food Security,INN,188247,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,Health,Health,INN,166537,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,WASH,WASH,INN,152071,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,Protection,Protection,INN,127632,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,Shelter & NFI,Shelter & NFI,INN,114252,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,Education,Education,INN,99355,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,Nutrition,Nutrition,INN,129769,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,1,CCCM,CCCM,INN,73779,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-NU,Nugaal,1,Intersectoral,Intersectoral,INN,147171,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,Food Security,Food Security,INN,135287,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,Health,Health,INN,95730,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,WASH,WASH,INN,99132,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,Protection,Protection,INN,71857,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,Shelter & NFI,Shelter & NFI,INN,64922,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,Education,Education,INN,55318,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,Nutrition,Nutrition,INN,75843,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,1,CCCM,CCCM,INN,39870,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-BR,Bari,1,Intersectoral,Intersectoral,INN,365870,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,Food Security,Food Security,INN,305161,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,Health,Health,INN,226025,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,WASH,WASH,INN,221131,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,Protection,Protection,INN,176923,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,Shelter & NFI,Shelter & NFI,INN,158818,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,Education,Education,INN,134170,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,Nutrition,Nutrition,INN,203043,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,1,CCCM,CCCM,INN,102629,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-SA,Sool,1,Intersectoral,Intersectoral,INN,158814,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,Food Security,Food Security,INN,137909,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,Health,Health,INN,105777,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,WASH,WASH,INN,95776,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,Protection,Protection,INN,73776,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,Shelter & NFI,Shelter & NFI,INN,80792,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,Education,Education,INN,64571,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,Nutrition,Nutrition,INN,93440,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,1,CCCM,CCCM,INN,45793,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SG,Sanaag,1,Intersectoral,Intersectoral,INN,210108,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,Food Security,Food Security,INN,193857,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,Health,Health,INN,144889,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,WASH,WASH,INN,144037,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,Protection,Protection,INN,101560,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,Shelter & NFI,Shelter & NFI,INN,98270,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,Education,Education,INN,84934,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,Nutrition,Nutrition,INN,114373,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,1,CCCM,CCCM,INN,66568,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-TO,Togdheer,1,Intersectoral,Intersectoral,INN,214009,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,Food Security,Food Security,INN,193361,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,Health,Health,INN,133927,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,WASH,WASH,INN,128756,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,Protection,Protection,INN,99965,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,Shelter & NFI,Shelter & NFI,INN,89190,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,Education,Education,INN,86511,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,Nutrition,Nutrition,INN,120247,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,1,CCCM,CCCM,INN,60255,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-AW,Awdal,1,Intersectoral,Intersectoral,INN,264591,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,Food Security,Food Security,INN,239099,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,Health,Health,INN,194760,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,WASH,WASH,INN,168231,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,Protection,Protection,INN,137008,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,Shelter & NFI,Shelter & NFI,INN,126995,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,Education,Education,INN,117378,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,Nutrition,Nutrition,INN,155814,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,1,CCCM,CCCM,INN,70891,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,Intersectoral,Intersectoral,INN,600065,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,Food Security,Food Security,INN,573333,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,Health,Health,INN,404784,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,WASH,WASH,INN,387135,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,Protection,Protection,INN,280643,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,Shelter & NFI,Shelter & NFI,INN,252271,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,Education,Education,INN,241618,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,Nutrition,Nutrition,INN,318268,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,1,CCCM,CCCM,INN,167431,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-SD,Middle Shabelle,1,Intersectoral,Intersectoral,INN,262527,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,Food Security,Food Security,INN,207239,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,Health,Health,INN,186627,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,WASH,WASH,INN,168539,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,Protection,Protection,INN,138972,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,Shelter & NFI,Shelter & NFI,INN,132910,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,Education,Education,INN,100051,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,Nutrition,Nutrition,INN,147250,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,1,CCCM,CCCM,INN,79508,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,,,0,Intersectoral,Intersectoral,INN,5986382,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,Food Security,Food Security,INN,5245036,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,Health,Health,INN,4062131,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,WASH,WASH,INN,3881286,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,Protection,Protection,INN,3007424,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,Shelter & NFI,Shelter & NFI,INN,2697969,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,Education,Education,INN,2444861,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,Nutrition,Nutrition,INN,3303400,2026-01-01,2026-12-31,,
+SOM,Somalia,,,0,CCCM,CCCM,INN,1719088,2026-01-01,2026-12-31,,

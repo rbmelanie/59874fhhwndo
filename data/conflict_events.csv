@@ -1,0 +1,1348 @@
+location_code,location_name,admin1_code,admin1_name,event_type,events,fatalities,year,reference_period_start,reference_period_end,lon,lat
+SDN,Sudan,SD-KH,Khartoum,Battles,5,9,2021,2021-01-01,2021-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Violence against civilians,5,19,2021,2021-01-01,2021-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Explosions/Remote violence,3,9,2021,2021-01-01,2021-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Riots,2,0,2021,2021-01-01,2021-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Protests,2,0,2021,2021-01-01,2021-12-31,32.53,15.59
+SDN,Sudan,SD-GZ,Gezira,Battles,5,8,2021,2021-01-01,2021-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Violence against civilians,7,14,2021,2021-01-01,2021-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Explosions/Remote violence,3,13,2021,2021-01-01,2021-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Riots,2,0,2021,2021-01-01,2021-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Protests,2,0,2021,2021-01-01,2021-12-31,33.43,14.38
+SDN,Sudan,SD-KA,Kassala,Battles,4,12,2021,2021-01-01,2021-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Violence against civilians,4,5,2021,2021-01-01,2021-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Explosions/Remote violence,2,8,2021,2021-01-01,2021-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Riots,1,0,2021,2021-01-01,2021-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Protests,1,0,2021,2021-01-01,2021-12-31,36.4,15.45
+SDN,Sudan,SD-RS,Red Sea,Battles,3,3,2021,2021-01-01,2021-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Violence against civilians,4,10,2021,2021-01-01,2021-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Explosions/Remote violence,2,8,2021,2021-01-01,2021-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Riots,2,0,2021,2021-01-01,2021-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Protests,1,0,2021,2021-01-01,2021-12-31,37.22,19.62
+SDN,Sudan,SD-NO,Northern,Battles,4,10,2021,2021-01-01,2021-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Violence against civilians,3,11,2021,2021-01-01,2021-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Explosions/Remote violence,3,4,2021,2021-01-01,2021-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Riots,1,0,2021,2021-01-01,2021-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Protests,2,0,2021,2021-01-01,2021-12-31,30.35,19.17
+SDN,Sudan,SD-RV,River Nile,Battles,6,9,2021,2021-01-01,2021-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Violence against civilians,5,10,2021,2021-01-01,2021-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Explosions/Remote violence,4,10,2021,2021-01-01,2021-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Riots,2,0,2021,2021-01-01,2021-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Protests,1,0,2021,2021-01-01,2021-12-31,33.43,17.61
+SDN,Sudan,SD-NB,North Darfur,Battles,13,14,2021,2021-01-01,2021-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Violence against civilians,12,22,2021,2021-01-01,2021-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Explosions/Remote violence,8,21,2021,2021-01-01,2021-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Riots,5,0,2021,2021-01-01,2021-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Protests,3,0,2021,2021-01-01,2021-12-31,24.88,14.65
+SDN,Sudan,SD-SB,South Darfur,Battles,7,25,2021,2021-01-01,2021-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Violence against civilians,5,17,2021,2021-01-01,2021-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Explosions/Remote violence,6,22,2021,2021-01-01,2021-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Riots,3,0,2021,2021-01-01,2021-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Protests,4,1,2021,2021-01-01,2021-12-31,24.88,11.5
+SDN,Sudan,SD-WB,West Darfur,Battles,7,17,2021,2021-01-01,2021-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Violence against civilians,10,39,2021,2021-01-01,2021-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Explosions/Remote violence,8,18,2021,2021-01-01,2021-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Riots,4,0,2021,2021-01-01,2021-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Protests,4,0,2021,2021-01-01,2021-12-31,22.45,12.9
+SDN,Sudan,SD-CB,Central Darfur,Battles,7,16,2021,2021-01-01,2021-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Violence against civilians,12,22,2021,2021-01-01,2021-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Explosions/Remote violence,6,18,2021,2021-01-01,2021-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Riots,5,1,2021,2021-01-01,2021-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Protests,4,0,2021,2021-01-01,2021-12-31,23.65,12.9
+SDN,Sudan,SD-EB,East Darfur,Battles,4,14,2021,2021-01-01,2021-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Violence against civilians,4,2,2021,2021-01-01,2021-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Explosions/Remote violence,1,3,2021,2021-01-01,2021-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Riots,2,0,2021,2021-01-01,2021-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Protests,1,0,2021,2021-01-01,2021-12-31,25.95,11.45
+SDN,Sudan,SD-NK,North Kordofan,Battles,3,11,2021,2021-01-01,2021-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Violence against civilians,2,6,2021,2021-01-01,2021-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Explosions/Remote violence,2,1,2021,2021-01-01,2021-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Riots,1,0,2021,2021-01-01,2021-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Protests,1,0,2021,2021-01-01,2021-12-31,30.21,13.18
+SDN,Sudan,SD-SK,South Kordofan,Battles,8,29,2021,2021-01-01,2021-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Violence against civilians,5,4,2021,2021-01-01,2021-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Explosions/Remote violence,5,14,2021,2021-01-01,2021-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Riots,2,0,2021,2021-01-01,2021-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Protests,2,0,2021,2021-01-01,2021-12-31,29.69,11.02
+SDN,Sudan,SD-WK,West Kordofan,Battles,3,1,2021,2021-01-01,2021-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Violence against civilians,4,16,2021,2021-01-01,2021-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Explosions/Remote violence,2,2,2021,2021-01-01,2021-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Riots,1,0,2021,2021-01-01,2021-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Protests,1,0,2021,2021-01-01,2021-12-31,28.4,11.78
+SDN,Sudan,SD-WH,White Nile,Battles,3,11,2021,2021-01-01,2021-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Violence against civilians,2,4,2021,2021-01-01,2021-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Explosions/Remote violence,2,2,2021,2021-01-01,2021-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Riots,1,0,2021,2021-01-01,2021-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Protests,2,0,2021,2021-01-01,2021-12-31,32.5,12.7
+SDN,Sudan,SD-SI,Sennar,Battles,6,9,2021,2021-01-01,2021-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Violence against civilians,5,16,2021,2021-01-01,2021-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Explosions/Remote violence,3,2,2021,2021-01-01,2021-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Riots,2,0,2021,2021-01-01,2021-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Protests,2,0,2021,2021-01-01,2021-12-31,33.93,13.55
+SDN,Sudan,SD-GD,Blue Nile,Battles,5,9,2021,2021-01-01,2021-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Violence against civilians,4,11,2021,2021-01-01,2021-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Explosions/Remote violence,3,10,2021,2021-01-01,2021-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Riots,2,0,2021,2021-01-01,2021-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Protests,2,0,2021,2021-01-01,2021-12-31,34.35,11.5
+SDN,Sudan,SD-AJ,Al Jazirah,Battles,3,6,2021,2021-01-01,2021-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Violence against civilians,4,13,2021,2021-01-01,2021-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Explosions/Remote violence,2,3,2021,2021-01-01,2021-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Riots,2,0,2021,2021-01-01,2021-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Protests,1,0,2021,2021-01-01,2021-12-31,33.1,14.85
+SDN,Sudan,SD-KH,Khartoum,Battles,11,42,2022,2022-01-01,2022-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Violence against civilians,6,22,2022,2022-01-01,2022-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Explosions/Remote violence,5,18,2022,2022-01-01,2022-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Riots,4,0,2022,2022-01-01,2022-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Protests,2,0,2022,2022-01-01,2022-12-31,32.53,15.59
+SDN,Sudan,SD-GZ,Gezira,Battles,8,31,2022,2022-01-01,2022-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Violence against civilians,6,26,2022,2022-01-01,2022-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Explosions/Remote violence,4,14,2022,2022-01-01,2022-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Riots,2,0,2022,2022-01-01,2022-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Protests,1,0,2022,2022-01-01,2022-12-31,33.43,14.38
+SDN,Sudan,SD-KA,Kassala,Battles,5,15,2022,2022-01-01,2022-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Violence against civilians,4,15,2022,2022-01-01,2022-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Explosions/Remote violence,3,2,2022,2022-01-01,2022-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Riots,1,0,2022,2022-01-01,2022-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Protests,2,0,2022,2022-01-01,2022-12-31,36.4,15.45
+SDN,Sudan,SD-RS,Red Sea,Battles,4,3,2022,2022-01-01,2022-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Violence against civilians,6,24,2022,2022-01-01,2022-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Explosions/Remote violence,3,6,2022,2022-01-01,2022-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Riots,1,0,2022,2022-01-01,2022-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Protests,1,0,2022,2022-01-01,2022-12-31,37.22,19.62
+SDN,Sudan,SD-NO,Northern,Battles,4,4,2022,2022-01-01,2022-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Violence against civilians,3,9,2022,2022-01-01,2022-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Explosions/Remote violence,2,8,2022,2022-01-01,2022-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Riots,1,0,2022,2022-01-01,2022-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Protests,1,0,2022,2022-01-01,2022-12-31,30.35,19.17
+SDN,Sudan,SD-RV,River Nile,Battles,3,6,2022,2022-01-01,2022-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Violence against civilians,4,2,2022,2022-01-01,2022-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Explosions/Remote violence,2,4,2022,2022-01-01,2022-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Riots,2,0,2022,2022-01-01,2022-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Protests,1,0,2022,2022-01-01,2022-12-31,33.43,17.61
+SDN,Sudan,SD-NB,North Darfur,Battles,16,30,2022,2022-01-01,2022-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Violence against civilians,10,12,2022,2022-01-01,2022-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Explosions/Remote violence,5,19,2022,2022-01-01,2022-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Riots,4,0,2022,2022-01-01,2022-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Protests,4,0,2022,2022-01-01,2022-12-31,24.88,14.65
+SDN,Sudan,SD-SB,South Darfur,Battles,9,13,2022,2022-01-01,2022-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Violence against civilians,4,11,2022,2022-01-01,2022-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Explosions/Remote violence,3,10,2022,2022-01-01,2022-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Riots,2,0,2022,2022-01-01,2022-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Protests,3,0,2022,2022-01-01,2022-12-31,24.88,11.5
+SDN,Sudan,SD-WB,West Darfur,Battles,13,6,2022,2022-01-01,2022-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Violence against civilians,11,11,2022,2022-01-01,2022-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Explosions/Remote violence,4,6,2022,2022-01-01,2022-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Riots,3,0,2022,2022-01-01,2022-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Protests,2,0,2022,2022-01-01,2022-12-31,22.45,12.9
+SDN,Sudan,SD-CB,Central Darfur,Battles,10,17,2022,2022-01-01,2022-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Violence against civilians,8,5,2022,2022-01-01,2022-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Explosions/Remote violence,8,20,2022,2022-01-01,2022-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Riots,6,0,2022,2022-01-01,2022-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Protests,5,0,2022,2022-01-01,2022-12-31,23.65,12.9
+SDN,Sudan,SD-EB,East Darfur,Battles,3,12,2022,2022-01-01,2022-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Violence against civilians,2,7,2022,2022-01-01,2022-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Explosions/Remote violence,2,5,2022,2022-01-01,2022-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Riots,1,0,2022,2022-01-01,2022-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Protests,1,0,2022,2022-01-01,2022-12-31,25.95,11.45
+SDN,Sudan,SD-NK,North Kordofan,Battles,5,12,2022,2022-01-01,2022-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Violence against civilians,5,3,2022,2022-01-01,2022-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Explosions/Remote violence,2,5,2022,2022-01-01,2022-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Riots,1,0,2022,2022-01-01,2022-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Protests,1,0,2022,2022-01-01,2022-12-31,30.21,13.18
+SDN,Sudan,SD-SK,South Kordofan,Battles,11,28,2022,2022-01-01,2022-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Violence against civilians,6,17,2022,2022-01-01,2022-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Explosions/Remote violence,3,9,2022,2022-01-01,2022-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Riots,4,0,2022,2022-01-01,2022-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Protests,3,0,2022,2022-01-01,2022-12-31,29.69,11.02
+SDN,Sudan,SD-WK,West Kordofan,Battles,4,5,2022,2022-01-01,2022-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Violence against civilians,3,6,2022,2022-01-01,2022-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Explosions/Remote violence,2,1,2022,2022-01-01,2022-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Riots,1,0,2022,2022-01-01,2022-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Protests,1,0,2022,2022-01-01,2022-12-31,28.4,11.78
+SDN,Sudan,SD-WH,White Nile,Battles,4,15,2022,2022-01-01,2022-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Violence against civilians,3,2,2022,2022-01-01,2022-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Explosions/Remote violence,4,14,2022,2022-01-01,2022-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Riots,2,0,2022,2022-01-01,2022-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Protests,2,0,2022,2022-01-01,2022-12-31,32.5,12.7
+SDN,Sudan,SD-SI,Sennar,Battles,3,9,2022,2022-01-01,2022-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Violence against civilians,4,15,2022,2022-01-01,2022-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Explosions/Remote violence,2,8,2022,2022-01-01,2022-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Riots,1,0,2022,2022-01-01,2022-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Protests,1,0,2022,2022-01-01,2022-12-31,33.93,13.55
+SDN,Sudan,SD-GD,Blue Nile,Battles,4,3,2022,2022-01-01,2022-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Violence against civilians,5,9,2022,2022-01-01,2022-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Explosions/Remote violence,3,8,2022,2022-01-01,2022-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Riots,2,0,2022,2022-01-01,2022-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Protests,2,0,2022,2022-01-01,2022-12-31,34.35,11.5
+SDN,Sudan,SD-AJ,Al Jazirah,Battles,5,3,2022,2022-01-01,2022-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Violence against civilians,6,22,2022,2022-01-01,2022-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Explosions/Remote violence,2,2,2022,2022-01-01,2022-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Riots,2,0,2022,2022-01-01,2022-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Protests,1,0,2022,2022-01-01,2022-12-31,33.1,14.85
+SDN,Sudan,SD-KH,Khartoum,Battles,25,26,2023,2023-01-01,2023-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Violence against civilians,27,16,2023,2023-01-01,2023-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Explosions/Remote violence,19,25,2023,2023-01-01,2023-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Riots,10,1,2023,2023-01-01,2023-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Protests,8,1,2023,2023-01-01,2023-12-31,32.53,15.59
+SDN,Sudan,SD-GZ,Gezira,Battles,29,24,2023,2023-01-01,2023-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Violence against civilians,15,16,2023,2023-01-01,2023-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Explosions/Remote violence,17,54,2023,2023-01-01,2023-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Riots,8,1,2023,2023-01-01,2023-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Protests,9,1,2023,2023-01-01,2023-12-31,33.43,14.38
+SDN,Sudan,SD-KA,Kassala,Battles,15,14,2023,2023-01-01,2023-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Violence against civilians,11,17,2023,2023-01-01,2023-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Explosions/Remote violence,8,19,2023,2023-01-01,2023-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Riots,5,0,2023,2023-01-01,2023-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Protests,4,0,2023,2023-01-01,2023-12-31,36.4,15.45
+SDN,Sudan,SD-RS,Red Sea,Battles,9,12,2023,2023-01-01,2023-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Violence against civilians,6,9,2023,2023-01-01,2023-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Explosions/Remote violence,5,2,2023,2023-01-01,2023-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Riots,5,0,2023,2023-01-01,2023-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Protests,3,0,2023,2023-01-01,2023-12-31,37.22,19.62
+SDN,Sudan,SD-NO,Northern,Battles,19,70,2023,2023-01-01,2023-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Violence against civilians,8,31,2023,2023-01-01,2023-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Explosions/Remote violence,5,2,2023,2023-01-01,2023-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Riots,7,1,2023,2023-01-01,2023-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Protests,5,0,2023,2023-01-01,2023-12-31,30.35,19.17
+SDN,Sudan,SD-RV,River Nile,Battles,16,15,2023,2023-01-01,2023-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Violence against civilians,9,16,2023,2023-01-01,2023-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Explosions/Remote violence,12,35,2023,2023-01-01,2023-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Riots,8,2,2023,2023-01-01,2023-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Protests,3,0,2023,2023-01-01,2023-12-31,33.43,17.61
+SDN,Sudan,SD-NB,North Darfur,Battles,35,90,2023,2023-01-01,2023-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Violence against civilians,26,45,2023,2023-01-01,2023-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Explosions/Remote violence,16,29,2023,2023-01-01,2023-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Riots,9,1,2023,2023-01-01,2023-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Protests,7,1,2023,2023-01-01,2023-12-31,24.88,14.65
+SDN,Sudan,SD-SB,South Darfur,Battles,37,126,2023,2023-01-01,2023-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Violence against civilians,46,172,2023,2023-01-01,2023-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Explosions/Remote violence,19,20,2023,2023-01-01,2023-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Riots,12,2,2023,2023-01-01,2023-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Protests,16,3,2023,2023-01-01,2023-12-31,24.88,11.5
+SDN,Sudan,SD-WB,West Darfur,Battles,41,101,2023,2023-01-01,2023-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Violence against civilians,35,123,2023,2023-01-01,2023-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Explosions/Remote violence,18,75,2023,2023-01-01,2023-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Riots,13,2,2023,2023-01-01,2023-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Protests,11,2,2023,2023-01-01,2023-12-31,22.45,12.9
+SDN,Sudan,SD-CB,Central Darfur,Battles,27,20,2023,2023-01-01,2023-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Violence against civilians,32,54,2023,2023-01-01,2023-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Explosions/Remote violence,18,13,2023,2023-01-01,2023-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Riots,14,1,2023,2023-01-01,2023-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Protests,11,0,2023,2023-01-01,2023-12-31,23.65,12.9
+SDN,Sudan,SD-EB,East Darfur,Battles,12,47,2023,2023-01-01,2023-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Violence against civilians,20,59,2023,2023-01-01,2023-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Explosions/Remote violence,10,23,2023,2023-01-01,2023-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Riots,7,1,2023,2023-01-01,2023-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Protests,7,0,2023,2023-01-01,2023-12-31,25.95,11.45
+SDN,Sudan,SD-NK,North Kordofan,Battles,20,35,2023,2023-01-01,2023-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Violence against civilians,15,16,2023,2023-01-01,2023-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Explosions/Remote violence,6,5,2023,2023-01-01,2023-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Riots,9,0,2023,2023-01-01,2023-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Protests,6,0,2023,2023-01-01,2023-12-31,30.21,13.18
+SDN,Sudan,SD-SK,South Kordofan,Battles,18,40,2023,2023-01-01,2023-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Violence against civilians,19,49,2023,2023-01-01,2023-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Explosions/Remote violence,9,17,2023,2023-01-01,2023-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Riots,7,0,2023,2023-01-01,2023-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Protests,6,1,2023,2023-01-01,2023-12-31,29.69,11.02
+SDN,Sudan,SD-WK,West Kordofan,Battles,19,14,2023,2023-01-01,2023-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Violence against civilians,10,32,2023,2023-01-01,2023-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Explosions/Remote violence,8,27,2023,2023-01-01,2023-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Riots,7,1,2023,2023-01-01,2023-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Protests,7,0,2023,2023-01-01,2023-12-31,28.4,11.78
+SDN,Sudan,SD-WH,White Nile,Battles,11,20,2023,2023-01-01,2023-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Violence against civilians,19,62,2023,2023-01-01,2023-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Explosions/Remote violence,8,23,2023,2023-01-01,2023-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Riots,8,0,2023,2023-01-01,2023-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Protests,4,0,2023,2023-01-01,2023-12-31,32.5,12.7
+SDN,Sudan,SD-SI,Sennar,Battles,20,76,2023,2023-01-01,2023-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Violence against civilians,18,58,2023,2023-01-01,2023-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Explosions/Remote violence,10,30,2023,2023-01-01,2023-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Riots,6,0,2023,2023-01-01,2023-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Protests,5,0,2023,2023-01-01,2023-12-31,33.93,13.55
+SDN,Sudan,SD-GD,Blue Nile,Battles,17,41,2023,2023-01-01,2023-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Violence against civilians,8,8,2023,2023-01-01,2023-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Explosions/Remote violence,5,19,2023,2023-01-01,2023-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Riots,3,0,2023,2023-01-01,2023-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Protests,5,1,2023,2023-01-01,2023-12-31,34.35,11.5
+SDN,Sudan,SD-AJ,Al Jazirah,Battles,9,32,2023,2023-01-01,2023-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Violence against civilians,7,14,2023,2023-01-01,2023-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Explosions/Remote violence,4,15,2023,2023-01-01,2023-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Riots,5,1,2023,2023-01-01,2023-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Protests,2,0,2023,2023-01-01,2023-12-31,33.1,14.85
+SDN,Sudan,SD-KH,Khartoum,Battles,21,47,2024,2024-01-01,2024-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Violence against civilians,19,66,2024,2024-01-01,2024-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Explosions/Remote violence,14,36,2024,2024-01-01,2024-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Riots,8,1,2024,2024-01-01,2024-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Protests,8,2,2024,2024-01-01,2024-12-31,32.53,15.59
+SDN,Sudan,SD-GZ,Gezira,Battles,26,115,2024,2024-01-01,2024-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Violence against civilians,16,26,2024,2024-01-01,2024-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Explosions/Remote violence,10,26,2024,2024-01-01,2024-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Riots,10,2,2024,2024-01-01,2024-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Protests,7,0,2024,2024-01-01,2024-12-31,33.43,14.38
+SDN,Sudan,SD-KA,Kassala,Battles,12,47,2024,2024-01-01,2024-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Violence against civilians,10,9,2024,2024-01-01,2024-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Explosions/Remote violence,8,31,2024,2024-01-01,2024-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Riots,3,0,2024,2024-01-01,2024-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Protests,3,0,2024,2024-01-01,2024-12-31,36.4,15.45
+SDN,Sudan,SD-RS,Red Sea,Battles,10,42,2024,2024-01-01,2024-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Violence against civilians,7,16,2024,2024-01-01,2024-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Explosions/Remote violence,5,3,2024,2024-01-01,2024-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Riots,2,0,2024,2024-01-01,2024-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Protests,3,0,2024,2024-01-01,2024-12-31,37.22,19.62
+SDN,Sudan,SD-NO,Northern,Battles,8,33,2024,2024-01-01,2024-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Violence against civilians,14,43,2024,2024-01-01,2024-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Explosions/Remote violence,8,8,2024,2024-01-01,2024-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Riots,4,0,2024,2024-01-01,2024-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Protests,4,0,2024,2024-01-01,2024-12-31,30.35,19.17
+SDN,Sudan,SD-RV,River Nile,Battles,14,7,2024,2024-01-01,2024-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Violence against civilians,9,13,2024,2024-01-01,2024-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Explosions/Remote violence,11,29,2024,2024-01-01,2024-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Riots,7,1,2024,2024-01-01,2024-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Protests,3,0,2024,2024-01-01,2024-12-31,33.43,17.61
+SDN,Sudan,SD-NB,North Darfur,Battles,19,41,2024,2024-01-01,2024-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Violence against civilians,32,74,2024,2024-01-01,2024-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Explosions/Remote violence,12,49,2024,2024-01-01,2024-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Riots,12,0,2024,2024-01-01,2024-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Protests,10,0,2024,2024-01-01,2024-12-31,24.88,14.65
+SDN,Sudan,SD-SB,South Darfur,Battles,22,65,2024,2024-01-01,2024-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Violence against civilians,16,34,2024,2024-01-01,2024-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Explosions/Remote violence,15,12,2024,2024-01-01,2024-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Riots,12,0,2024,2024-01-01,2024-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Protests,8,1,2024,2024-01-01,2024-12-31,24.88,11.5
+SDN,Sudan,SD-WB,West Darfur,Battles,50,103,2024,2024-01-01,2024-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Violence against civilians,41,124,2024,2024-01-01,2024-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Explosions/Remote violence,37,56,2024,2024-01-01,2024-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Riots,11,2,2024,2024-01-01,2024-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Protests,13,2,2024,2024-01-01,2024-12-31,22.45,12.9
+SDN,Sudan,SD-CB,Central Darfur,Battles,41,141,2024,2024-01-01,2024-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Violence against civilians,26,17,2024,2024-01-01,2024-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Explosions/Remote violence,20,75,2024,2024-01-01,2024-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Riots,9,2,2024,2024-01-01,2024-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Protests,10,2,2024,2024-01-01,2024-12-31,23.65,12.9
+SDN,Sudan,SD-EB,East Darfur,Battles,18,13,2024,2024-01-01,2024-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Violence against civilians,15,34,2024,2024-01-01,2024-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Explosions/Remote violence,7,4,2024,2024-01-01,2024-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Riots,4,0,2024,2024-01-01,2024-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Protests,6,0,2024,2024-01-01,2024-12-31,25.95,11.45
+SDN,Sudan,SD-NK,North Kordofan,Battles,18,27,2024,2024-01-01,2024-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Violence against civilians,18,22,2024,2024-01-01,2024-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Explosions/Remote violence,8,28,2024,2024-01-01,2024-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Riots,8,0,2024,2024-01-01,2024-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Protests,4,0,2024,2024-01-01,2024-12-31,30.21,13.18
+SDN,Sudan,SD-SK,South Kordofan,Battles,37,150,2024,2024-01-01,2024-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Violence against civilians,24,105,2024,2024-01-01,2024-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Explosions/Remote violence,17,42,2024,2024-01-01,2024-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Riots,15,2,2024,2024-01-01,2024-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Protests,12,2,2024,2024-01-01,2024-12-31,29.69,11.02
+SDN,Sudan,SD-WK,West Kordofan,Battles,11,41,2024,2024-01-01,2024-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Violence against civilians,9,16,2024,2024-01-01,2024-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Explosions/Remote violence,4,12,2024,2024-01-01,2024-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Riots,3,0,2024,2024-01-01,2024-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Protests,3,0,2024,2024-01-01,2024-12-31,28.4,11.78
+SDN,Sudan,SD-WH,White Nile,Battles,8,31,2024,2024-01-01,2024-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Violence against civilians,9,40,2024,2024-01-01,2024-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Explosions/Remote violence,6,26,2024,2024-01-01,2024-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Riots,6,0,2024,2024-01-01,2024-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Protests,4,0,2024,2024-01-01,2024-12-31,32.5,12.7
+SDN,Sudan,SD-SI,Sennar,Battles,18,77,2024,2024-01-01,2024-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Violence against civilians,10,29,2024,2024-01-01,2024-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Explosions/Remote violence,11,7,2024,2024-01-01,2024-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Riots,4,0,2024,2024-01-01,2024-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Protests,4,0,2024,2024-01-01,2024-12-31,33.93,13.55
+SDN,Sudan,SD-GD,Blue Nile,Battles,15,48,2024,2024-01-01,2024-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Violence against civilians,16,31,2024,2024-01-01,2024-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Explosions/Remote violence,9,25,2024,2024-01-01,2024-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Riots,5,0,2024,2024-01-01,2024-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Protests,5,0,2024,2024-01-01,2024-12-31,34.35,11.5
+SDN,Sudan,SD-AJ,Al Jazirah,Battles,12,29,2024,2024-01-01,2024-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Violence against civilians,8,21,2024,2024-01-01,2024-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Explosions/Remote violence,5,7,2024,2024-01-01,2024-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Riots,4,1,2024,2024-01-01,2024-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Protests,3,0,2024,2024-01-01,2024-12-31,33.1,14.85
+SDN,Sudan,SD-KH,Khartoum,Battles,24,55,2025,2025-01-01,2025-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Violence against civilians,22,50,2025,2025-01-01,2025-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Explosions/Remote violence,7,22,2025,2025-01-01,2025-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Riots,9,0,2025,2025-01-01,2025-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Protests,5,0,2025,2025-01-01,2025-12-31,32.53,15.59
+SDN,Sudan,SD-GZ,Gezira,Battles,29,113,2025,2025-01-01,2025-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Violence against civilians,23,96,2025,2025-01-01,2025-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Explosions/Remote violence,14,51,2025,2025-01-01,2025-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Riots,8,0,2025,2025-01-01,2025-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Protests,5,0,2025,2025-01-01,2025-12-31,33.43,14.38
+SDN,Sudan,SD-KA,Kassala,Battles,10,27,2025,2025-01-01,2025-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Violence against civilians,12,44,2025,2025-01-01,2025-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Explosions/Remote violence,9,26,2025,2025-01-01,2025-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Riots,4,0,2025,2025-01-01,2025-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Protests,7,1,2025,2025-01-01,2025-12-31,36.4,15.45
+SDN,Sudan,SD-RS,Red Sea,Battles,17,64,2025,2025-01-01,2025-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Violence against civilians,8,35,2025,2025-01-01,2025-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Explosions/Remote violence,9,20,2025,2025-01-01,2025-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Riots,6,0,2025,2025-01-01,2025-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Protests,6,1,2025,2025-01-01,2025-12-31,37.22,19.62
+SDN,Sudan,SD-NO,Northern,Battles,11,48,2025,2025-01-01,2025-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Violence against civilians,12,49,2025,2025-01-01,2025-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Explosions/Remote violence,5,4,2025,2025-01-01,2025-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Riots,4,0,2025,2025-01-01,2025-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Protests,4,0,2025,2025-01-01,2025-12-31,30.35,19.17
+SDN,Sudan,SD-RV,River Nile,Battles,16,65,2025,2025-01-01,2025-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Violence against civilians,14,21,2025,2025-01-01,2025-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Explosions/Remote violence,8,21,2025,2025-01-01,2025-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Riots,3,0,2025,2025-01-01,2025-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Protests,4,0,2025,2025-01-01,2025-12-31,33.43,17.61
+SDN,Sudan,SD-NB,North Darfur,Battles,38,42,2025,2025-01-01,2025-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Violence against civilians,28,94,2025,2025-01-01,2025-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Explosions/Remote violence,17,65,2025,2025-01-01,2025-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Riots,11,2,2025,2025-01-01,2025-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Protests,5,0,2025,2025-01-01,2025-12-31,24.88,14.65
+SDN,Sudan,SD-SB,South Darfur,Battles,36,111,2025,2025-01-01,2025-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Violence against civilians,36,77,2025,2025-01-01,2025-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Explosions/Remote violence,21,52,2025,2025-01-01,2025-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Riots,14,1,2025,2025-01-01,2025-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Protests,14,2,2025,2025-01-01,2025-12-31,24.88,11.5
+SDN,Sudan,SD-WB,West Darfur,Battles,51,86,2025,2025-01-01,2025-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Violence against civilians,26,19,2025,2025-01-01,2025-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Explosions/Remote violence,24,58,2025,2025-01-01,2025-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Riots,13,2,2025,2025-01-01,2025-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Protests,12,2,2025,2025-01-01,2025-12-31,22.45,12.9
+SDN,Sudan,SD-CB,Central Darfur,Battles,47,206,2025,2025-01-01,2025-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Violence against civilians,23,45,2025,2025-01-01,2025-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Explosions/Remote violence,22,39,2025,2025-01-01,2025-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Riots,13,1,2025,2025-01-01,2025-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Protests,9,0,2025,2025-01-01,2025-12-31,23.65,12.9
+SDN,Sudan,SD-EB,East Darfur,Battles,11,32,2025,2025-01-01,2025-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Violence against civilians,8,31,2025,2025-01-01,2025-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Explosions/Remote violence,5,9,2025,2025-01-01,2025-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Riots,5,0,2025,2025-01-01,2025-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Protests,4,0,2025,2025-01-01,2025-12-31,25.95,11.45
+SDN,Sudan,SD-NK,North Kordofan,Battles,14,24,2025,2025-01-01,2025-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Violence against civilians,7,29,2025,2025-01-01,2025-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Explosions/Remote violence,8,34,2025,2025-01-01,2025-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Riots,4,0,2025,2025-01-01,2025-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Protests,3,0,2025,2025-01-01,2025-12-31,30.21,13.18
+SDN,Sudan,SD-SK,South Kordofan,Battles,35,83,2025,2025-01-01,2025-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Violence against civilians,28,108,2025,2025-01-01,2025-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Explosions/Remote violence,17,68,2025,2025-01-01,2025-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Riots,14,3,2025,2025-01-01,2025-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Protests,9,1,2025,2025-01-01,2025-12-31,29.69,11.02
+SDN,Sudan,SD-WK,West Kordofan,Battles,11,29,2025,2025-01-01,2025-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Violence against civilians,8,20,2025,2025-01-01,2025-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Explosions/Remote violence,10,16,2025,2025-01-01,2025-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Riots,7,1,2025,2025-01-01,2025-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Protests,3,0,2025,2025-01-01,2025-12-31,28.4,11.78
+SDN,Sudan,SD-WH,White Nile,Battles,16,29,2025,2025-01-01,2025-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Violence against civilians,15,52,2025,2025-01-01,2025-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Explosions/Remote violence,5,12,2025,2025-01-01,2025-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Riots,5,0,2025,2025-01-01,2025-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Protests,3,0,2025,2025-01-01,2025-12-31,32.5,12.7
+SDN,Sudan,SD-SI,Sennar,Battles,13,38,2025,2025-01-01,2025-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Violence against civilians,12,21,2025,2025-01-01,2025-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Explosions/Remote violence,8,9,2025,2025-01-01,2025-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Riots,7,1,2025,2025-01-01,2025-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Protests,3,0,2025,2025-01-01,2025-12-31,33.93,13.55
+SDN,Sudan,SD-GD,Blue Nile,Battles,16,53,2025,2025-01-01,2025-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Violence against civilians,12,45,2025,2025-01-01,2025-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Explosions/Remote violence,8,25,2025,2025-01-01,2025-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Riots,8,1,2025,2025-01-01,2025-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Protests,6,1,2025,2025-01-01,2025-12-31,34.35,11.5
+SDN,Sudan,SD-AJ,Al Jazirah,Battles,9,21,2025,2025-01-01,2025-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Violence against civilians,18,65,2025,2025-01-01,2025-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Explosions/Remote violence,10,28,2025,2025-01-01,2025-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Riots,7,1,2025,2025-01-01,2025-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Protests,3,0,2025,2025-01-01,2025-12-31,33.1,14.85
+SDN,Sudan,SD-KH,Khartoum,Battles,22,70,2026,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Violence against civilians,16,68,2026,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Explosions/Remote violence,12,6,2026,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Riots,10,0,2026,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-KH,Khartoum,Protests,11,1,2026,2026-01-01,2026-12-31,32.53,15.59
+SDN,Sudan,SD-GZ,Gezira,Battles,35,139,2026,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Violence against civilians,27,20,2026,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Explosions/Remote violence,10,13,2026,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Riots,8,1,2026,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-GZ,Gezira,Protests,8,0,2026,2026-01-01,2026-12-31,33.43,14.38
+SDN,Sudan,SD-KA,Kassala,Battles,15,28,2026,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Violence against civilians,9,32,2026,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Explosions/Remote violence,7,21,2026,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Riots,5,0,2026,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-KA,Kassala,Protests,3,0,2026,2026-01-01,2026-12-31,36.4,15.45
+SDN,Sudan,SD-RS,Red Sea,Battles,11,48,2026,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Violence against civilians,11,18,2026,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Explosions/Remote violence,6,19,2026,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Riots,5,0,2026,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-RS,Red Sea,Protests,6,1,2026,2026-01-01,2026-12-31,37.22,19.62
+SDN,Sudan,SD-NO,Northern,Battles,8,25,2026,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Violence against civilians,9,39,2026,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Explosions/Remote violence,8,34,2026,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Riots,6,0,2026,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-NO,Northern,Protests,3,0,2026,2026-01-01,2026-12-31,30.35,19.17
+SDN,Sudan,SD-RV,River Nile,Battles,12,18,2026,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Violence against civilians,11,14,2026,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Explosions/Remote violence,7,29,2026,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Riots,5,0,2026,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-RV,River Nile,Protests,4,0,2026,2026-01-01,2026-12-31,33.43,17.61
+SDN,Sudan,SD-NB,North Darfur,Battles,35,91,2026,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Violence against civilians,30,21,2026,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Explosions/Remote violence,16,53,2026,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Riots,8,1,2026,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-NB,North Darfur,Protests,6,0,2026,2026-01-01,2026-12-31,24.88,14.65
+SDN,Sudan,SD-SB,South Darfur,Battles,37,156,2026,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Violence against civilians,46,110,2026,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Explosions/Remote violence,17,74,2026,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Riots,13,2,2026,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-SB,South Darfur,Protests,17,0,2026,2026-01-01,2026-12-31,24.88,11.5
+SDN,Sudan,SD-WB,West Darfur,Battles,42,142,2026,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Violence against civilians,48,199,2026,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Explosions/Remote violence,17,68,2026,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Riots,11,3,2026,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-WB,West Darfur,Protests,18,2,2026,2026-01-01,2026-12-31,22.45,12.9
+SDN,Sudan,SD-CB,Central Darfur,Battles,45,195,2026,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Violence against civilians,39,156,2026,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Explosions/Remote violence,11,30,2026,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Riots,9,2,2026,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-CB,Central Darfur,Protests,9,2,2026,2026-01-01,2026-12-31,23.65,12.9
+SDN,Sudan,SD-EB,East Darfur,Battles,14,59,2026,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Violence against civilians,16,37,2026,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Explosions/Remote violence,6,5,2026,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Riots,4,0,2026,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-EB,East Darfur,Protests,4,0,2026,2026-01-01,2026-12-31,25.95,11.45
+SDN,Sudan,SD-NK,North Kordofan,Battles,20,55,2026,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Violence against civilians,17,20,2026,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Explosions/Remote violence,11,44,2026,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Riots,7,1,2026,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-NK,North Kordofan,Protests,3,0,2026,2026-01-01,2026-12-31,30.21,13.18
+SDN,Sudan,SD-SK,South Kordofan,Battles,15,26,2026,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Violence against civilians,15,23,2026,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Explosions/Remote violence,9,31,2026,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Riots,11,0,2026,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-SK,South Kordofan,Protests,8,0,2026,2026-01-01,2026-12-31,29.69,11.02
+SDN,Sudan,SD-WK,West Kordofan,Battles,17,12,2026,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Violence against civilians,9,15,2026,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Explosions/Remote violence,8,20,2026,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Riots,7,1,2026,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WK,West Kordofan,Protests,4,0,2026,2026-01-01,2026-12-31,28.4,11.78
+SDN,Sudan,SD-WH,White Nile,Battles,14,41,2026,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Violence against civilians,12,12,2026,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Explosions/Remote violence,7,24,2026,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Riots,7,0,2026,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-WH,White Nile,Protests,6,0,2026,2026-01-01,2026-12-31,32.5,12.7
+SDN,Sudan,SD-SI,Sennar,Battles,16,21,2026,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Violence against civilians,10,35,2026,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Explosions/Remote violence,10,8,2026,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Riots,5,1,2026,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-SI,Sennar,Protests,3,0,2026,2026-01-01,2026-12-31,33.93,13.55
+SDN,Sudan,SD-GD,Blue Nile,Battles,11,27,2026,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Violence against civilians,9,9,2026,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Explosions/Remote violence,5,12,2026,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Riots,3,0,2026,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-GD,Blue Nile,Protests,3,0,2026,2026-01-01,2026-12-31,34.35,11.5
+SDN,Sudan,SD-AJ,Al Jazirah,Battles,17,39,2026,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Violence against civilians,12,27,2026,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Explosions/Remote violence,5,11,2026,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Riots,7,1,2026,2026-01-01,2026-12-31,33.1,14.85
+SDN,Sudan,SD-AJ,Al Jazirah,Protests,4,0,2026,2026-01-01,2026-12-31,33.1,14.85
+SSD,South Sudan,SS-EC,Central Equatoria,Battles,1,1,2021,2021-01-01,2021-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Violence against civilians,1,4,2021,2021-01-01,2021-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Explosions/Remote violence,1,0,2021,2021-01-01,2021-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Riots,1,0,2021,2021-01-01,2021-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Protests,1,0,2021,2021-01-01,2021-12-31,31.6,4.85
+SSD,South Sudan,SS-EE,Eastern Equatoria,Battles,3,9,2021,2021-01-01,2021-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Violence against civilians,2,8,2021,2021-01-01,2021-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Explosions/Remote violence,1,3,2021,2021-01-01,2021-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Riots,1,0,2021,2021-01-01,2021-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Protests,1,0,2021,2021-01-01,2021-12-31,33.3,4.7
+SSD,South Sudan,SS-WE,Western Equatoria,Battles,2,3,2021,2021-01-01,2021-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Violence against civilians,1,2,2021,2021-01-01,2021-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Explosions/Remote violence,1,3,2021,2021-01-01,2021-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Riots,1,0,2021,2021-01-01,2021-12-31,27.95,5.65
+SSD,South Sudan,SS-JG,Jonglei,Battles,3,8,2021,2021-01-01,2021-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Violence against civilians,2,7,2021,2021-01-01,2021-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Explosions/Remote violence,1,1,2021,2021-01-01,2021-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Riots,1,0,2021,2021-01-01,2021-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Protests,1,0,2021,2021-01-01,2021-12-31,32.1,7.8
+SSD,South Sudan,SS-LK,Lakes,Battles,2,7,2021,2021-01-01,2021-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Violence against civilians,3,1,2021,2021-01-01,2021-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Explosions/Remote violence,1,0,2021,2021-01-01,2021-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Riots,1,0,2021,2021-01-01,2021-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Protests,1,0,2021,2021-01-01,2021-12-31,29.8,6.85
+SSD,South Sudan,SS-NU,Upper Nile,Battles,3,4,2021,2021-01-01,2021-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Violence against civilians,2,7,2021,2021-01-01,2021-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Explosions/Remote violence,1,2,2021,2021-01-01,2021-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Riots,1,0,2021,2021-01-01,2021-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Protests,1,0,2021,2021-01-01,2021-12-31,32.95,9.85
+SSD,South Sudan,SS-UY,Unity,Battles,4,7,2021,2021-01-01,2021-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Violence against civilians,2,2,2021,2021-01-01,2021-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Explosions/Remote violence,2,2,2021,2021-01-01,2021-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Riots,1,0,2021,2021-01-01,2021-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Protests,1,0,2021,2021-01-01,2021-12-31,30.1,8.7
+SSD,South Sudan,SS-WR,Warrap,Battles,3,6,2021,2021-01-01,2021-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Violence against civilians,3,13,2021,2021-01-01,2021-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Explosions/Remote violence,2,6,2021,2021-01-01,2021-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Riots,1,0,2021,2021-01-01,2021-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Protests,1,0,2021,2021-01-01,2021-12-31,28.45,8.05
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Battles,2,4,2021,2021-01-01,2021-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Violence against civilians,2,3,2021,2021-01-01,2021-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Explosions/Remote violence,1,3,2021,2021-01-01,2021-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Riots,1,0,2021,2021-01-01,2021-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Protests,1,0,2021,2021-01-01,2021-12-31,27.55,8.85
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Battles,1,1,2021,2021-01-01,2021-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Violence against civilians,1,4,2021,2021-01-01,2021-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Explosions/Remote violence,1,0,2021,2021-01-01,2021-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Riots,1,0,2021,2021-01-01,2021-12-31,26.2,7.55
+SSD,South Sudan,SS-EC,Central Equatoria,Battles,3,3,2022,2022-01-01,2022-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Violence against civilians,2,6,2022,2022-01-01,2022-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Explosions/Remote violence,1,2,2022,2022-01-01,2022-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Riots,1,0,2022,2022-01-01,2022-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Protests,1,0,2022,2022-01-01,2022-12-31,31.6,4.85
+SSD,South Sudan,SS-EE,Eastern Equatoria,Battles,3,2,2022,2022-01-01,2022-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Violence against civilians,3,7,2022,2022-01-01,2022-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Explosions/Remote violence,1,2,2022,2022-01-01,2022-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Riots,1,0,2022,2022-01-01,2022-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Protests,1,0,2022,2022-01-01,2022-12-31,33.3,4.7
+SSD,South Sudan,SS-WE,Western Equatoria,Battles,2,3,2022,2022-01-01,2022-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Violence against civilians,1,2,2022,2022-01-01,2022-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Explosions/Remote violence,1,0,2022,2022-01-01,2022-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Riots,1,0,2022,2022-01-01,2022-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Protests,1,0,2022,2022-01-01,2022-12-31,27.95,5.65
+SSD,South Sudan,SS-JG,Jonglei,Battles,2,5,2022,2022-01-01,2022-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Violence against civilians,2,2,2022,2022-01-01,2022-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Explosions/Remote violence,1,4,2022,2022-01-01,2022-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Riots,1,0,2022,2022-01-01,2022-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Protests,1,0,2022,2022-01-01,2022-12-31,32.1,7.8
+SSD,South Sudan,SS-LK,Lakes,Battles,2,4,2022,2022-01-01,2022-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Violence against civilians,2,6,2022,2022-01-01,2022-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Explosions/Remote violence,1,3,2022,2022-01-01,2022-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Riots,1,0,2022,2022-01-01,2022-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Protests,1,0,2022,2022-01-01,2022-12-31,29.8,6.85
+SSD,South Sudan,SS-NU,Upper Nile,Battles,2,6,2022,2022-01-01,2022-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Violence against civilians,3,12,2022,2022-01-01,2022-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Explosions/Remote violence,2,6,2022,2022-01-01,2022-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Riots,1,0,2022,2022-01-01,2022-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Protests,1,0,2022,2022-01-01,2022-12-31,32.95,9.85
+SSD,South Sudan,SS-UY,Unity,Battles,4,8,2022,2022-01-01,2022-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Violence against civilians,4,5,2022,2022-01-01,2022-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Explosions/Remote violence,2,1,2022,2022-01-01,2022-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Riots,1,0,2022,2022-01-01,2022-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Protests,1,0,2022,2022-01-01,2022-12-31,30.1,8.7
+SSD,South Sudan,SS-WR,Warrap,Battles,2,4,2022,2022-01-01,2022-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Violence against civilians,1,2,2022,2022-01-01,2022-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Explosions/Remote violence,1,2,2022,2022-01-01,2022-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Riots,1,0,2022,2022-01-01,2022-12-31,28.45,8.05
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Battles,2,7,2022,2022-01-01,2022-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Violence against civilians,3,2,2022,2022-01-01,2022-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Explosions/Remote violence,1,1,2022,2022-01-01,2022-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Riots,1,0,2022,2022-01-01,2022-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Protests,1,0,2022,2022-01-01,2022-12-31,27.55,8.85
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Battles,2,4,2022,2022-01-01,2022-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Violence against civilians,2,8,2022,2022-01-01,2022-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Explosions/Remote violence,1,3,2022,2022-01-01,2022-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Riots,1,0,2022,2022-01-01,2022-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Protests,1,0,2022,2022-01-01,2022-12-31,26.2,7.55
+SSD,South Sudan,SS-EC,Central Equatoria,Battles,1,0,2023,2023-01-01,2023-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Violence against civilians,1,1,2023,2023-01-01,2023-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Explosions/Remote violence,1,2,2023,2023-01-01,2023-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Riots,1,0,2023,2023-01-01,2023-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Protests,1,0,2023,2023-01-01,2023-12-31,31.6,4.85
+SSD,South Sudan,SS-EE,Eastern Equatoria,Battles,1,1,2023,2023-01-01,2023-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Violence against civilians,2,8,2023,2023-01-01,2023-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Explosions/Remote violence,1,0,2023,2023-01-01,2023-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Protests,1,0,2023,2023-01-01,2023-12-31,33.3,4.7
+SSD,South Sudan,SS-WE,Western Equatoria,Battles,1,4,2023,2023-01-01,2023-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Violence against civilians,1,4,2023,2023-01-01,2023-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Explosions/Remote violence,1,3,2023,2023-01-01,2023-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Riots,1,0,2023,2023-01-01,2023-12-31,27.95,5.65
+SSD,South Sudan,SS-JG,Jonglei,Battles,1,3,2023,2023-01-01,2023-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Violence against civilians,1,4,2023,2023-01-01,2023-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Explosions/Remote violence,1,3,2023,2023-01-01,2023-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Protests,1,0,2023,2023-01-01,2023-12-31,32.1,7.8
+SSD,South Sudan,SS-LK,Lakes,Battles,2,1,2023,2023-01-01,2023-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Violence against civilians,1,3,2023,2023-01-01,2023-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Explosions/Remote violence,1,3,2023,2023-01-01,2023-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Riots,1,0,2023,2023-01-01,2023-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Protests,1,0,2023,2023-01-01,2023-12-31,29.8,6.85
+SSD,South Sudan,SS-NU,Upper Nile,Battles,2,4,2023,2023-01-01,2023-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Violence against civilians,1,4,2023,2023-01-01,2023-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Explosions/Remote violence,1,3,2023,2023-01-01,2023-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Riots,1,0,2023,2023-01-01,2023-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Protests,1,0,2023,2023-01-01,2023-12-31,32.95,9.85
+SSD,South Sudan,SS-UY,Unity,Battles,2,2,2023,2023-01-01,2023-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Violence against civilians,3,9,2023,2023-01-01,2023-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Explosions/Remote violence,2,3,2023,2023-01-01,2023-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Riots,1,0,2023,2023-01-01,2023-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Protests,1,0,2023,2023-01-01,2023-12-31,30.1,8.7
+SSD,South Sudan,SS-WR,Warrap,Battles,1,1,2023,2023-01-01,2023-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Violence against civilians,1,2,2023,2023-01-01,2023-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Explosions/Remote violence,1,0,2023,2023-01-01,2023-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Riots,1,0,2023,2023-01-01,2023-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Protests,1,0,2023,2023-01-01,2023-12-31,28.45,8.05
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Battles,1,2,2023,2023-01-01,2023-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Violence against civilians,1,4,2023,2023-01-01,2023-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Explosions/Remote violence,1,4,2023,2023-01-01,2023-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Riots,1,0,2023,2023-01-01,2023-12-31,27.55,8.85
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Battles,1,2,2023,2023-01-01,2023-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Violence against civilians,1,2,2023,2023-01-01,2023-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Explosions/Remote violence,1,2,2023,2023-01-01,2023-12-31,26.2,7.55
+SSD,South Sudan,SS-EC,Central Equatoria,Battles,2,2,2024,2024-01-01,2024-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Violence against civilians,1,1,2024,2024-01-01,2024-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Explosions/Remote violence,1,1,2024,2024-01-01,2024-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Riots,1,0,2024,2024-01-01,2024-12-31,31.6,4.85
+SSD,South Sudan,SS-EE,Eastern Equatoria,Battles,2,7,2024,2024-01-01,2024-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Violence against civilians,2,2,2024,2024-01-01,2024-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Explosions/Remote violence,1,4,2024,2024-01-01,2024-12-31,33.3,4.7
+SSD,South Sudan,SS-WE,Western Equatoria,Battles,3,4,2024,2024-01-01,2024-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Violence against civilians,2,4,2024,2024-01-01,2024-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Explosions/Remote violence,1,1,2024,2024-01-01,2024-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Riots,1,0,2024,2024-01-01,2024-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Protests,1,0,2024,2024-01-01,2024-12-31,27.95,5.65
+SSD,South Sudan,SS-JG,Jonglei,Battles,3,8,2024,2024-01-01,2024-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Violence against civilians,2,5,2024,2024-01-01,2024-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Explosions/Remote violence,2,4,2024,2024-01-01,2024-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Riots,1,0,2024,2024-01-01,2024-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Protests,1,0,2024,2024-01-01,2024-12-31,32.1,7.8
+SSD,South Sudan,SS-LK,Lakes,Battles,2,4,2024,2024-01-01,2024-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Violence against civilians,2,6,2024,2024-01-01,2024-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Explosions/Remote violence,1,3,2024,2024-01-01,2024-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Riots,1,0,2024,2024-01-01,2024-12-31,29.8,6.85
+SSD,South Sudan,SS-NU,Upper Nile,Battles,3,6,2024,2024-01-01,2024-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Violence against civilians,3,12,2024,2024-01-01,2024-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Explosions/Remote violence,2,5,2024,2024-01-01,2024-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Riots,1,0,2024,2024-01-01,2024-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Protests,1,0,2024,2024-01-01,2024-12-31,32.95,9.85
+SSD,South Sudan,SS-UY,Unity,Battles,2,7,2024,2024-01-01,2024-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Violence against civilians,3,5,2024,2024-01-01,2024-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Explosions/Remote violence,2,1,2024,2024-01-01,2024-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Riots,1,0,2024,2024-01-01,2024-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Protests,1,0,2024,2024-01-01,2024-12-31,30.1,8.7
+SSD,South Sudan,SS-WR,Warrap,Battles,2,1,2024,2024-01-01,2024-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Violence against civilians,2,5,2024,2024-01-01,2024-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Explosions/Remote violence,1,2,2024,2024-01-01,2024-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Riots,1,0,2024,2024-01-01,2024-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Protests,1,0,2024,2024-01-01,2024-12-31,28.45,8.05
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Battles,2,3,2024,2024-01-01,2024-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Violence against civilians,1,0,2024,2024-01-01,2024-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Explosions/Remote violence,1,4,2024,2024-01-01,2024-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Protests,1,0,2024,2024-01-01,2024-12-31,27.55,8.85
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Battles,1,1,2024,2024-01-01,2024-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Violence against civilians,1,2,2024,2024-01-01,2024-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Explosions/Remote violence,1,3,2024,2024-01-01,2024-12-31,26.2,7.55
+SSD,South Sudan,SS-EC,Central Equatoria,Battles,2,6,2025,2025-01-01,2025-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Violence against civilians,1,1,2025,2025-01-01,2025-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Explosions/Remote violence,1,1,2025,2025-01-01,2025-12-31,31.6,4.85
+SSD,South Sudan,SS-EE,Eastern Equatoria,Battles,3,4,2025,2025-01-01,2025-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Violence against civilians,2,2,2025,2025-01-01,2025-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Explosions/Remote violence,1,2,2025,2025-01-01,2025-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Protests,1,0,2025,2025-01-01,2025-12-31,33.3,4.7
+SSD,South Sudan,SS-WE,Western Equatoria,Battles,2,6,2025,2025-01-01,2025-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Violence against civilians,1,3,2025,2025-01-01,2025-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Explosions/Remote violence,1,0,2025,2025-01-01,2025-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Riots,1,0,2025,2025-01-01,2025-12-31,27.95,5.65
+SSD,South Sudan,SS-JG,Jonglei,Battles,3,4,2025,2025-01-01,2025-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Violence against civilians,3,7,2025,2025-01-01,2025-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Explosions/Remote violence,2,5,2025,2025-01-01,2025-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Riots,1,0,2025,2025-01-01,2025-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Protests,1,0,2025,2025-01-01,2025-12-31,32.1,7.8
+SSD,South Sudan,SS-LK,Lakes,Battles,3,9,2025,2025-01-01,2025-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Violence against civilians,2,5,2025,2025-01-01,2025-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Explosions/Remote violence,1,1,2025,2025-01-01,2025-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Riots,1,0,2025,2025-01-01,2025-12-31,29.8,6.85
+SSD,South Sudan,SS-NU,Upper Nile,Battles,3,6,2025,2025-01-01,2025-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Violence against civilians,2,4,2025,2025-01-01,2025-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Explosions/Remote violence,1,3,2025,2025-01-01,2025-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Riots,1,0,2025,2025-01-01,2025-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Protests,1,0,2025,2025-01-01,2025-12-31,32.95,9.85
+SSD,South Sudan,SS-UY,Unity,Battles,2,3,2025,2025-01-01,2025-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Violence against civilians,3,2,2025,2025-01-01,2025-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Explosions/Remote violence,2,1,2025,2025-01-01,2025-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Riots,1,0,2025,2025-01-01,2025-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Protests,1,0,2025,2025-01-01,2025-12-31,30.1,8.7
+SSD,South Sudan,SS-WR,Warrap,Battles,3,6,2025,2025-01-01,2025-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Violence against civilians,3,7,2025,2025-01-01,2025-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Explosions/Remote violence,1,0,2025,2025-01-01,2025-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Riots,1,0,2025,2025-01-01,2025-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Protests,1,0,2025,2025-01-01,2025-12-31,28.45,8.05
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Battles,1,3,2025,2025-01-01,2025-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Violence against civilians,2,5,2025,2025-01-01,2025-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Explosions/Remote violence,1,0,2025,2025-01-01,2025-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Riots,1,0,2025,2025-01-01,2025-12-31,27.55,8.85
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Battles,1,3,2025,2025-01-01,2025-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Violence against civilians,2,8,2025,2025-01-01,2025-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Explosions/Remote violence,1,3,2025,2025-01-01,2025-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Riots,1,0,2025,2025-01-01,2025-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Protests,1,0,2025,2025-01-01,2025-12-31,26.2,7.55
+SSD,South Sudan,SS-EC,Central Equatoria,Battles,2,8,2026,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Violence against civilians,2,2,2026,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Explosions/Remote violence,1,2,2026,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Riots,1,0,2026,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EC,Central Equatoria,Protests,1,0,2026,2026-01-01,2026-12-31,31.6,4.85
+SSD,South Sudan,SS-EE,Eastern Equatoria,Battles,1,1,2026,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Violence against civilians,1,1,2026,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-EE,Eastern Equatoria,Explosions/Remote violence,1,2,2026,2026-01-01,2026-12-31,33.3,4.7
+SSD,South Sudan,SS-WE,Western Equatoria,Battles,1,3,2026,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Violence against civilians,2,6,2026,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Explosions/Remote violence,1,4,2026,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Riots,1,0,2026,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-WE,Western Equatoria,Protests,1,0,2026,2026-01-01,2026-12-31,27.95,5.65
+SSD,South Sudan,SS-JG,Jonglei,Battles,3,4,2026,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Violence against civilians,2,7,2026,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Explosions/Remote violence,1,3,2026,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-JG,Jonglei,Riots,1,0,2026,2026-01-01,2026-12-31,32.1,7.8
+SSD,South Sudan,SS-LK,Lakes,Battles,1,3,2026,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Violence against civilians,2,1,2026,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Explosions/Remote violence,1,1,2026,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Riots,1,0,2026,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-LK,Lakes,Protests,1,0,2026,2026-01-01,2026-12-31,29.8,6.85
+SSD,South Sudan,SS-NU,Upper Nile,Battles,2,6,2026,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Violence against civilians,2,4,2026,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Explosions/Remote violence,1,1,2026,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-NU,Upper Nile,Protests,1,0,2026,2026-01-01,2026-12-31,32.95,9.85
+SSD,South Sudan,SS-UY,Unity,Battles,2,3,2026,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Violence against civilians,3,5,2026,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Explosions/Remote violence,2,5,2026,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Riots,1,0,2026,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-UY,Unity,Protests,1,0,2026,2026-01-01,2026-12-31,30.1,8.7
+SSD,South Sudan,SS-WR,Warrap,Battles,2,4,2026,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Violence against civilians,1,3,2026,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Explosions/Remote violence,1,0,2026,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Riots,1,0,2026,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-WR,Warrap,Protests,1,0,2026,2026-01-01,2026-12-31,28.45,8.05
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Battles,1,4,2026,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Violence against civilians,1,3,2026,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Explosions/Remote violence,1,1,2026,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BN,Northern Bahr el Ghazal,Riots,1,0,2026,2026-01-01,2026-12-31,27.55,8.85
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Battles,2,2,2026,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Violence against civilians,1,3,2026,2026-01-01,2026-12-31,26.2,7.55
+SSD,South Sudan,SS-BW,Western Bahr el Ghazal,Riots,1,0,2026,2026-01-01,2026-12-31,26.2,7.55
+SOM,Somalia,SO-BN,Banadir,Battles,3,11,2021,2021-01-01,2021-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Violence against civilians,3,6,2021,2021-01-01,2021-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Explosions/Remote violence,1,0,2021,2021-01-01,2021-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Riots,1,0,2021,2021-01-01,2021-12-31,45.32,2.04
+SOM,Somalia,SO-LJ,Lower Juba,Battles,6,6,2021,2021-01-01,2021-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Violence against civilians,5,17,2021,2021-01-01,2021-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Explosions/Remote violence,2,8,2021,2021-01-01,2021-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Riots,1,0,2021,2021-01-01,2021-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Protests,1,0,2021,2021-01-01,2021-12-31,42.35,0.3
+SOM,Somalia,SO-MJ,Middle Juba,Battles,5,15,2021,2021-01-01,2021-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Violence against civilians,3,6,2021,2021-01-01,2021-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Explosions/Remote violence,3,11,2021,2021-01-01,2021-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Riots,1,0,2021,2021-01-01,2021-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Protests,2,0,2021,2021-01-01,2021-12-31,42.6,1.65
+SOM,Somalia,SO-GD,Gedo,Battles,6,10,2021,2021-01-01,2021-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Violence against civilians,3,4,2021,2021-01-01,2021-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Explosions/Remote violence,2,5,2021,2021-01-01,2021-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Riots,2,0,2021,2021-01-01,2021-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Protests,2,0,2021,2021-01-01,2021-12-31,42.1,3.25
+SOM,Somalia,SO-BY,Bay,Battles,4,6,2021,2021-01-01,2021-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Violence against civilians,3,7,2021,2021-01-01,2021-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Explosions/Remote violence,3,5,2021,2021-01-01,2021-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Riots,1,0,2021,2021-01-01,2021-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Protests,2,0,2021,2021-01-01,2021-12-31,43.65,2.3
+SOM,Somalia,SO-BK,Bakool,Battles,4,11,2021,2021-01-01,2021-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Violence against civilians,4,17,2021,2021-01-01,2021-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Explosions/Remote violence,3,12,2021,2021-01-01,2021-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Riots,1,0,2021,2021-01-01,2021-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Protests,1,0,2021,2021-01-01,2021-12-31,43.7,3.95
+SOM,Somalia,SO-SH,Lower Shabelle,Battles,6,25,2021,2021-01-01,2021-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Violence against civilians,5,2,2021,2021-01-01,2021-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Explosions/Remote violence,2,3,2021,2021-01-01,2021-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Riots,1,0,2021,2021-01-01,2021-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Protests,2,0,2021,2021-01-01,2021-12-31,44.55,1.65
+SOM,Somalia,SO-WS,Hiraan,Battles,3,6,2021,2021-01-01,2021-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Violence against civilians,4,3,2021,2021-01-01,2021-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Explosions/Remote violence,2,5,2021,2021-01-01,2021-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Riots,1,0,2021,2021-01-01,2021-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Protests,1,0,2021,2021-01-01,2021-12-31,45.3,4.1
+SOM,Somalia,SO-GA,Galguduud,Battles,4,8,2021,2021-01-01,2021-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Violence against civilians,4,15,2021,2021-01-01,2021-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Explosions/Remote violence,2,1,2021,2021-01-01,2021-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Riots,2,0,2021,2021-01-01,2021-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Protests,2,0,2021,2021-01-01,2021-12-31,46.8,5.4
+SOM,Somalia,SO-MU,Mudug,Battles,2,4,2021,2021-01-01,2021-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Violence against civilians,2,3,2021,2021-01-01,2021-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Explosions/Remote violence,2,6,2021,2021-01-01,2021-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Riots,1,0,2021,2021-01-01,2021-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Protests,1,0,2021,2021-01-01,2021-12-31,47.8,6.6
+SOM,Somalia,SO-NU,Nugaal,Battles,4,14,2021,2021-01-01,2021-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Violence against civilians,4,4,2021,2021-01-01,2021-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Explosions/Remote violence,2,7,2021,2021-01-01,2021-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Riots,1,0,2021,2021-01-01,2021-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Protests,2,0,2021,2021-01-01,2021-12-31,48.6,8.1
+SOM,Somalia,SO-BR,Bari,Battles,3,2,2021,2021-01-01,2021-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Violence against civilians,4,11,2021,2021-01-01,2021-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Explosions/Remote violence,1,2,2021,2021-01-01,2021-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Riots,1,0,2021,2021-01-01,2021-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Protests,1,0,2021,2021-01-01,2021-12-31,49.6,9.9
+SOM,Somalia,SO-SA,Sool,Battles,2,5,2021,2021-01-01,2021-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Violence against civilians,3,4,2021,2021-01-01,2021-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Explosions/Remote violence,2,1,2021,2021-01-01,2021-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Riots,1,0,2021,2021-01-01,2021-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Protests,1,0,2021,2021-01-01,2021-12-31,47.5,8.9
+SOM,Somalia,SO-SG,Sanaag,Battles,3,11,2021,2021-01-01,2021-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Violence against civilians,2,8,2021,2021-01-01,2021-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Explosions/Remote violence,2,4,2021,2021-01-01,2021-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Riots,1,0,2021,2021-01-01,2021-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Protests,1,0,2021,2021-01-01,2021-12-31,47.85,10.4
+SOM,Somalia,SO-TO,Togdheer,Battles,2,5,2021,2021-01-01,2021-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Violence against civilians,3,3,2021,2021-01-01,2021-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Explosions/Remote violence,2,8,2021,2021-01-01,2021-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Riots,1,0,2021,2021-01-01,2021-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Protests,1,0,2021,2021-01-01,2021-12-31,45.55,9.4
+SOM,Somalia,SO-AW,Awdal,Battles,3,8,2021,2021-01-01,2021-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Violence against civilians,2,2,2021,2021-01-01,2021-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Explosions/Remote violence,2,3,2021,2021-01-01,2021-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Riots,2,0,2021,2021-01-01,2021-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Protests,1,0,2021,2021-01-01,2021-12-31,43.3,10.45
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Battles,3,12,2021,2021-01-01,2021-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Violence against civilians,4,5,2021,2021-01-01,2021-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Explosions/Remote violence,1,2,2021,2021-01-01,2021-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Riots,1,0,2021,2021-01-01,2021-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Protests,1,0,2021,2021-01-01,2021-12-31,44.2,9.6
+SOM,Somalia,SO-SD,Middle Shabelle,Battles,2,6,2021,2021-01-01,2021-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Violence against civilians,5,17,2021,2021-01-01,2021-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Explosions/Remote violence,2,5,2021,2021-01-01,2021-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Riots,1,0,2021,2021-01-01,2021-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Protests,1,0,2021,2021-01-01,2021-12-31,45.65,2.85
+SOM,Somalia,SO-BN,Banadir,Battles,3,12,2022,2022-01-01,2022-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Violence against civilians,2,6,2022,2022-01-01,2022-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Explosions/Remote violence,1,4,2022,2022-01-01,2022-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Riots,1,0,2022,2022-01-01,2022-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Protests,1,0,2022,2022-01-01,2022-12-31,45.32,2.04
+SOM,Somalia,SO-LJ,Lower Juba,Battles,4,8,2022,2022-01-01,2022-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Violence against civilians,5,7,2022,2022-01-01,2022-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Explosions/Remote violence,2,3,2022,2022-01-01,2022-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Riots,2,0,2022,2022-01-01,2022-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Protests,1,0,2022,2022-01-01,2022-12-31,42.35,0.3
+SOM,Somalia,SO-MJ,Middle Juba,Battles,3,3,2022,2022-01-01,2022-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Violence against civilians,4,11,2022,2022-01-01,2022-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Explosions/Remote violence,2,2,2022,2022-01-01,2022-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Riots,1,0,2022,2022-01-01,2022-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Protests,1,0,2022,2022-01-01,2022-12-31,42.6,1.65
+SOM,Somalia,SO-GD,Gedo,Battles,3,4,2022,2022-01-01,2022-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Violence against civilians,2,2,2022,2022-01-01,2022-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Explosions/Remote violence,3,11,2022,2022-01-01,2022-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Riots,2,0,2022,2022-01-01,2022-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Protests,2,0,2022,2022-01-01,2022-12-31,42.1,3.25
+SOM,Somalia,SO-BY,Bay,Battles,2,3,2022,2022-01-01,2022-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Violence against civilians,2,6,2022,2022-01-01,2022-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Explosions/Remote violence,1,4,2022,2022-01-01,2022-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Riots,1,0,2022,2022-01-01,2022-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Protests,1,0,2022,2022-01-01,2022-12-31,43.65,2.3
+SOM,Somalia,SO-BK,Bakool,Battles,5,18,2022,2022-01-01,2022-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Violence against civilians,3,1,2022,2022-01-01,2022-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Explosions/Remote violence,3,13,2022,2022-01-01,2022-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Riots,1,0,2022,2022-01-01,2022-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Protests,1,0,2022,2022-01-01,2022-12-31,43.7,3.95
+SOM,Somalia,SO-SH,Lower Shabelle,Battles,5,7,2022,2022-01-01,2022-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Violence against civilians,5,2,2022,2022-01-01,2022-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Explosions/Remote violence,2,8,2022,2022-01-01,2022-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Riots,2,0,2022,2022-01-01,2022-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Protests,2,0,2022,2022-01-01,2022-12-31,44.55,1.65
+SOM,Somalia,SO-WS,Hiraan,Battles,2,4,2022,2022-01-01,2022-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Violence against civilians,2,5,2022,2022-01-01,2022-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Explosions/Remote violence,2,4,2022,2022-01-01,2022-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Riots,1,0,2022,2022-01-01,2022-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Protests,1,0,2022,2022-01-01,2022-12-31,45.3,4.1
+SOM,Somalia,SO-GA,Galguduud,Battles,2,8,2022,2022-01-01,2022-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Violence against civilians,1,2,2022,2022-01-01,2022-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Explosions/Remote violence,1,1,2022,2022-01-01,2022-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Riots,1,0,2022,2022-01-01,2022-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Protests,1,0,2022,2022-01-01,2022-12-31,46.8,5.4
+SOM,Somalia,SO-MU,Mudug,Battles,2,8,2022,2022-01-01,2022-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Violence against civilians,2,6,2022,2022-01-01,2022-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Explosions/Remote violence,2,7,2022,2022-01-01,2022-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Riots,1,0,2022,2022-01-01,2022-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Protests,1,0,2022,2022-01-01,2022-12-31,47.8,6.6
+SOM,Somalia,SO-NU,Nugaal,Battles,4,10,2022,2022-01-01,2022-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Violence against civilians,3,3,2022,2022-01-01,2022-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Explosions/Remote violence,2,2,2022,2022-01-01,2022-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Riots,2,0,2022,2022-01-01,2022-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Protests,1,0,2022,2022-01-01,2022-12-31,48.6,8.1
+SOM,Somalia,SO-BR,Bari,Battles,4,17,2022,2022-01-01,2022-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Violence against civilians,4,3,2022,2022-01-01,2022-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Explosions/Remote violence,2,3,2022,2022-01-01,2022-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Riots,2,0,2022,2022-01-01,2022-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Protests,1,0,2022,2022-01-01,2022-12-31,49.6,9.9
+SOM,Somalia,SO-SA,Sool,Battles,3,11,2022,2022-01-01,2022-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Violence against civilians,2,7,2022,2022-01-01,2022-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Explosions/Remote violence,2,2,2022,2022-01-01,2022-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Riots,1,0,2022,2022-01-01,2022-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Protests,1,0,2022,2022-01-01,2022-12-31,47.5,8.9
+SOM,Somalia,SO-SG,Sanaag,Battles,3,12,2022,2022-01-01,2022-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Violence against civilians,2,5,2022,2022-01-01,2022-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Explosions/Remote violence,1,4,2022,2022-01-01,2022-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Riots,1,0,2022,2022-01-01,2022-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Protests,1,0,2022,2022-01-01,2022-12-31,47.85,10.4
+SOM,Somalia,SO-TO,Togdheer,Battles,2,2,2022,2022-01-01,2022-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Violence against civilians,2,1,2022,2022-01-01,2022-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Explosions/Remote violence,2,2,2022,2022-01-01,2022-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Riots,1,0,2022,2022-01-01,2022-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Protests,1,0,2022,2022-01-01,2022-12-31,45.55,9.4
+SOM,Somalia,SO-AW,Awdal,Battles,2,5,2022,2022-01-01,2022-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Violence against civilians,3,10,2022,2022-01-01,2022-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Explosions/Remote violence,2,7,2022,2022-01-01,2022-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Riots,1,0,2022,2022-01-01,2022-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Protests,1,0,2022,2022-01-01,2022-12-31,43.3,10.45
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Battles,2,2,2022,2022-01-01,2022-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Violence against civilians,2,8,2022,2022-01-01,2022-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Explosions/Remote violence,2,8,2022,2022-01-01,2022-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Riots,1,0,2022,2022-01-01,2022-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Protests,1,0,2022,2022-01-01,2022-12-31,44.2,9.6
+SOM,Somalia,SO-SD,Middle Shabelle,Battles,5,6,2022,2022-01-01,2022-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Violence against civilians,4,4,2022,2022-01-01,2022-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Explosions/Remote violence,2,6,2022,2022-01-01,2022-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Riots,1,0,2022,2022-01-01,2022-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Protests,2,0,2022,2022-01-01,2022-12-31,45.65,2.85
+SOM,Somalia,SO-BN,Banadir,Battles,5,3,2023,2023-01-01,2023-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Violence against civilians,4,16,2023,2023-01-01,2023-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Explosions/Remote violence,3,4,2023,2023-01-01,2023-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Riots,1,0,2023,2023-01-01,2023-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Protests,1,0,2023,2023-01-01,2023-12-31,45.32,2.04
+SOM,Somalia,SO-LJ,Lower Juba,Battles,5,5,2023,2023-01-01,2023-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Violence against civilians,4,3,2023,2023-01-01,2023-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Explosions/Remote violence,3,9,2023,2023-01-01,2023-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Riots,2,0,2023,2023-01-01,2023-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Protests,1,0,2023,2023-01-01,2023-12-31,42.35,0.3
+SOM,Somalia,SO-MJ,Middle Juba,Battles,2,1,2023,2023-01-01,2023-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Violence against civilians,2,4,2023,2023-01-01,2023-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Explosions/Remote violence,2,8,2023,2023-01-01,2023-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Riots,1,0,2023,2023-01-01,2023-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Protests,1,0,2023,2023-01-01,2023-12-31,42.6,1.65
+SOM,Somalia,SO-GD,Gedo,Battles,3,11,2023,2023-01-01,2023-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Violence against civilians,3,9,2023,2023-01-01,2023-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Explosions/Remote violence,1,0,2023,2023-01-01,2023-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Riots,2,0,2023,2023-01-01,2023-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Protests,1,0,2023,2023-01-01,2023-12-31,42.1,3.25
+SOM,Somalia,SO-BY,Bay,Battles,2,4,2023,2023-01-01,2023-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Violence against civilians,2,5,2023,2023-01-01,2023-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Explosions/Remote violence,2,1,2023,2023-01-01,2023-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Riots,1,0,2023,2023-01-01,2023-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Protests,1,0,2023,2023-01-01,2023-12-31,43.65,2.3
+SOM,Somalia,SO-BK,Bakool,Battles,5,20,2023,2023-01-01,2023-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Violence against civilians,4,3,2023,2023-01-01,2023-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Explosions/Remote violence,3,3,2023,2023-01-01,2023-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Riots,3,0,2023,2023-01-01,2023-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Protests,2,0,2023,2023-01-01,2023-12-31,43.7,3.95
+SOM,Somalia,SO-SH,Lower Shabelle,Battles,3,2,2023,2023-01-01,2023-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Violence against civilians,3,11,2023,2023-01-01,2023-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Explosions/Remote violence,1,1,2023,2023-01-01,2023-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Riots,1,0,2023,2023-01-01,2023-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Protests,1,0,2023,2023-01-01,2023-12-31,44.55,1.65
+SOM,Somalia,SO-WS,Hiraan,Battles,1,1,2023,2023-01-01,2023-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Violence against civilians,2,1,2023,2023-01-01,2023-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Explosions/Remote violence,2,3,2023,2023-01-01,2023-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Riots,1,0,2023,2023-01-01,2023-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Protests,1,0,2023,2023-01-01,2023-12-31,45.3,4.1
+SOM,Somalia,SO-GA,Galguduud,Battles,2,8,2023,2023-01-01,2023-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Violence against civilians,2,4,2023,2023-01-01,2023-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Explosions/Remote violence,1,2,2023,2023-01-01,2023-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Riots,1,0,2023,2023-01-01,2023-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Protests,1,0,2023,2023-01-01,2023-12-31,46.8,5.4
+SOM,Somalia,SO-MU,Mudug,Battles,2,3,2023,2023-01-01,2023-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Violence against civilians,3,13,2023,2023-01-01,2023-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Explosions/Remote violence,2,5,2023,2023-01-01,2023-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Riots,2,0,2023,2023-01-01,2023-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Protests,1,0,2023,2023-01-01,2023-12-31,47.8,6.6
+SOM,Somalia,SO-NU,Nugaal,Battles,3,12,2023,2023-01-01,2023-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Violence against civilians,3,2,2023,2023-01-01,2023-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Explosions/Remote violence,3,10,2023,2023-01-01,2023-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Riots,1,0,2023,2023-01-01,2023-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Protests,1,0,2023,2023-01-01,2023-12-31,48.6,8.1
+SOM,Somalia,SO-BR,Bari,Battles,2,7,2023,2023-01-01,2023-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Violence against civilians,2,8,2023,2023-01-01,2023-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Explosions/Remote violence,2,7,2023,2023-01-01,2023-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Riots,1,0,2023,2023-01-01,2023-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Protests,1,0,2023,2023-01-01,2023-12-31,49.6,9.9
+SOM,Somalia,SO-SA,Sool,Battles,4,15,2023,2023-01-01,2023-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Violence against civilians,3,12,2023,2023-01-01,2023-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Explosions/Remote violence,3,2,2023,2023-01-01,2023-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Riots,1,0,2023,2023-01-01,2023-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Protests,1,0,2023,2023-01-01,2023-12-31,47.5,8.9
+SOM,Somalia,SO-SG,Sanaag,Battles,4,14,2023,2023-01-01,2023-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Violence against civilians,3,7,2023,2023-01-01,2023-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Explosions/Remote violence,1,2,2023,2023-01-01,2023-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Riots,1,0,2023,2023-01-01,2023-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Protests,1,0,2023,2023-01-01,2023-12-31,47.85,10.4
+SOM,Somalia,SO-TO,Togdheer,Battles,4,3,2023,2023-01-01,2023-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Violence against civilians,3,7,2023,2023-01-01,2023-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Explosions/Remote violence,2,4,2023,2023-01-01,2023-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Riots,1,0,2023,2023-01-01,2023-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Protests,1,0,2023,2023-01-01,2023-12-31,45.55,9.4
+SOM,Somalia,SO-AW,Awdal,Battles,2,5,2023,2023-01-01,2023-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Violence against civilians,3,1,2023,2023-01-01,2023-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Explosions/Remote violence,2,3,2023,2023-01-01,2023-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Riots,1,0,2023,2023-01-01,2023-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Protests,1,0,2023,2023-01-01,2023-12-31,43.3,10.45
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Battles,3,5,2023,2023-01-01,2023-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Violence against civilians,1,2,2023,2023-01-01,2023-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Explosions/Remote violence,1,0,2023,2023-01-01,2023-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Riots,1,0,2023,2023-01-01,2023-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Protests,1,0,2023,2023-01-01,2023-12-31,44.2,9.6
+SOM,Somalia,SO-SD,Middle Shabelle,Battles,3,6,2023,2023-01-01,2023-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Violence against civilians,3,3,2023,2023-01-01,2023-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Explosions/Remote violence,1,3,2023,2023-01-01,2023-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Riots,2,0,2023,2023-01-01,2023-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Protests,1,0,2023,2023-01-01,2023-12-31,45.65,2.85
+SOM,Somalia,SO-BN,Banadir,Battles,2,5,2024,2024-01-01,2024-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Violence against civilians,1,3,2024,2024-01-01,2024-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Explosions/Remote violence,2,1,2024,2024-01-01,2024-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Riots,1,0,2024,2024-01-01,2024-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Protests,1,0,2024,2024-01-01,2024-12-31,45.32,2.04
+SOM,Somalia,SO-LJ,Lower Juba,Battles,6,19,2024,2024-01-01,2024-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Violence against civilians,3,11,2024,2024-01-01,2024-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Explosions/Remote violence,3,9,2024,2024-01-01,2024-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Riots,1,0,2024,2024-01-01,2024-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Protests,1,0,2024,2024-01-01,2024-12-31,42.35,0.3
+SOM,Somalia,SO-MJ,Middle Juba,Battles,4,11,2024,2024-01-01,2024-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Violence against civilians,3,3,2024,2024-01-01,2024-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Explosions/Remote violence,3,10,2024,2024-01-01,2024-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Riots,1,0,2024,2024-01-01,2024-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Protests,1,0,2024,2024-01-01,2024-12-31,42.6,1.65
+SOM,Somalia,SO-GD,Gedo,Battles,7,27,2024,2024-01-01,2024-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Violence against civilians,5,16,2024,2024-01-01,2024-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Explosions/Remote violence,2,4,2024,2024-01-01,2024-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Riots,1,0,2024,2024-01-01,2024-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Protests,2,0,2024,2024-01-01,2024-12-31,42.1,3.25
+SOM,Somalia,SO-BY,Bay,Battles,4,11,2024,2024-01-01,2024-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Violence against civilians,2,3,2024,2024-01-01,2024-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Explosions/Remote violence,3,5,2024,2024-01-01,2024-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Riots,2,0,2024,2024-01-01,2024-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Protests,1,0,2024,2024-01-01,2024-12-31,43.65,2.3
+SOM,Somalia,SO-BK,Bakool,Battles,4,9,2024,2024-01-01,2024-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Violence against civilians,5,18,2024,2024-01-01,2024-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Explosions/Remote violence,2,1,2024,2024-01-01,2024-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Riots,2,0,2024,2024-01-01,2024-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Protests,2,0,2024,2024-01-01,2024-12-31,43.7,3.95
+SOM,Somalia,SO-SH,Lower Shabelle,Battles,5,8,2024,2024-01-01,2024-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Violence against civilians,3,2,2024,2024-01-01,2024-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Explosions/Remote violence,3,9,2024,2024-01-01,2024-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Riots,2,0,2024,2024-01-01,2024-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Protests,2,0,2024,2024-01-01,2024-12-31,44.55,1.65
+SOM,Somalia,SO-WS,Hiraan,Battles,2,7,2024,2024-01-01,2024-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Violence against civilians,3,11,2024,2024-01-01,2024-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Explosions/Remote violence,2,5,2024,2024-01-01,2024-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Riots,1,0,2024,2024-01-01,2024-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Protests,1,0,2024,2024-01-01,2024-12-31,45.3,4.1
+SOM,Somalia,SO-GA,Galguduud,Battles,3,6,2024,2024-01-01,2024-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Violence against civilians,3,1,2024,2024-01-01,2024-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Explosions/Remote violence,3,8,2024,2024-01-01,2024-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Riots,1,0,2024,2024-01-01,2024-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Protests,1,0,2024,2024-01-01,2024-12-31,46.8,5.4
+SOM,Somalia,SO-MU,Mudug,Battles,5,15,2024,2024-01-01,2024-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Violence against civilians,3,11,2024,2024-01-01,2024-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Explosions/Remote violence,3,12,2024,2024-01-01,2024-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Riots,1,0,2024,2024-01-01,2024-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Protests,1,0,2024,2024-01-01,2024-12-31,47.8,6.6
+SOM,Somalia,SO-NU,Nugaal,Battles,4,4,2024,2024-01-01,2024-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Violence against civilians,4,7,2024,2024-01-01,2024-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Explosions/Remote violence,1,1,2024,2024-01-01,2024-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Riots,2,0,2024,2024-01-01,2024-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Protests,1,0,2024,2024-01-01,2024-12-31,48.6,8.1
+SOM,Somalia,SO-BR,Bari,Battles,2,7,2024,2024-01-01,2024-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Violence against civilians,2,7,2024,2024-01-01,2024-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Explosions/Remote violence,2,8,2024,2024-01-01,2024-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Riots,1,0,2024,2024-01-01,2024-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Protests,1,0,2024,2024-01-01,2024-12-31,49.6,9.9
+SOM,Somalia,SO-SA,Sool,Battles,2,1,2024,2024-01-01,2024-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Violence against civilians,3,3,2024,2024-01-01,2024-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Explosions/Remote violence,1,2,2024,2024-01-01,2024-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Riots,1,0,2024,2024-01-01,2024-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Protests,1,0,2024,2024-01-01,2024-12-31,47.5,8.9
+SOM,Somalia,SO-SG,Sanaag,Battles,4,9,2024,2024-01-01,2024-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Violence against civilians,3,3,2024,2024-01-01,2024-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Explosions/Remote violence,2,1,2024,2024-01-01,2024-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Riots,1,0,2024,2024-01-01,2024-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Protests,1,0,2024,2024-01-01,2024-12-31,47.85,10.4
+SOM,Somalia,SO-TO,Togdheer,Battles,4,3,2024,2024-01-01,2024-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Violence against civilians,3,9,2024,2024-01-01,2024-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Explosions/Remote violence,2,8,2024,2024-01-01,2024-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Riots,1,0,2024,2024-01-01,2024-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Protests,1,0,2024,2024-01-01,2024-12-31,45.55,9.4
+SOM,Somalia,SO-AW,Awdal,Battles,2,7,2024,2024-01-01,2024-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Violence against civilians,1,3,2024,2024-01-01,2024-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Explosions/Remote violence,1,1,2024,2024-01-01,2024-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Riots,1,0,2024,2024-01-01,2024-12-31,43.3,10.45
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Battles,3,3,2024,2024-01-01,2024-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Violence against civilians,3,5,2024,2024-01-01,2024-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Explosions/Remote violence,1,3,2024,2024-01-01,2024-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Riots,1,0,2024,2024-01-01,2024-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Protests,1,0,2024,2024-01-01,2024-12-31,44.2,9.6
+SOM,Somalia,SO-SD,Middle Shabelle,Battles,4,7,2024,2024-01-01,2024-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Violence against civilians,2,8,2024,2024-01-01,2024-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Explosions/Remote violence,2,4,2024,2024-01-01,2024-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Riots,1,0,2024,2024-01-01,2024-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Protests,1,0,2024,2024-01-01,2024-12-31,45.65,2.85
+SOM,Somalia,SO-BN,Banadir,Battles,2,6,2025,2025-01-01,2025-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Violence against civilians,1,4,2025,2025-01-01,2025-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Explosions/Remote violence,1,2,2025,2025-01-01,2025-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Riots,1,0,2025,2025-01-01,2025-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Protests,1,0,2025,2025-01-01,2025-12-31,45.32,2.04
+SOM,Somalia,SO-LJ,Lower Juba,Battles,4,8,2025,2025-01-01,2025-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Violence against civilians,3,8,2025,2025-01-01,2025-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Explosions/Remote violence,2,2,2025,2025-01-01,2025-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Riots,2,0,2025,2025-01-01,2025-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Protests,1,0,2025,2025-01-01,2025-12-31,42.35,0.3
+SOM,Somalia,SO-MJ,Middle Juba,Battles,4,11,2025,2025-01-01,2025-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Violence against civilians,3,11,2025,2025-01-01,2025-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Explosions/Remote violence,2,6,2025,2025-01-01,2025-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Riots,1,0,2025,2025-01-01,2025-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Protests,1,0,2025,2025-01-01,2025-12-31,42.6,1.65
+SOM,Somalia,SO-GD,Gedo,Battles,3,7,2025,2025-01-01,2025-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Violence against civilians,3,9,2025,2025-01-01,2025-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Explosions/Remote violence,2,1,2025,2025-01-01,2025-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Riots,1,0,2025,2025-01-01,2025-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Protests,2,0,2025,2025-01-01,2025-12-31,42.1,3.25
+SOM,Somalia,SO-BY,Bay,Battles,2,8,2025,2025-01-01,2025-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Violence against civilians,2,6,2025,2025-01-01,2025-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Explosions/Remote violence,1,0,2025,2025-01-01,2025-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Riots,1,0,2025,2025-01-01,2025-12-31,43.65,2.3
+SOM,Somalia,SO-BK,Bakool,Battles,4,17,2025,2025-01-01,2025-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Violence against civilians,3,7,2025,2025-01-01,2025-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Explosions/Remote violence,2,2,2025,2025-01-01,2025-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Riots,1,0,2025,2025-01-01,2025-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Protests,2,0,2025,2025-01-01,2025-12-31,43.7,3.95
+SOM,Somalia,SO-SH,Lower Shabelle,Battles,3,10,2025,2025-01-01,2025-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Violence against civilians,3,11,2025,2025-01-01,2025-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Explosions/Remote violence,3,3,2025,2025-01-01,2025-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Riots,2,0,2025,2025-01-01,2025-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Protests,2,0,2025,2025-01-01,2025-12-31,44.55,1.65
+SOM,Somalia,SO-WS,Hiraan,Battles,3,3,2025,2025-01-01,2025-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Violence against civilians,2,8,2025,2025-01-01,2025-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Explosions/Remote violence,1,2,2025,2025-01-01,2025-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Riots,1,0,2025,2025-01-01,2025-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Protests,1,0,2025,2025-01-01,2025-12-31,45.3,4.1
+SOM,Somalia,SO-GA,Galguduud,Battles,3,2,2025,2025-01-01,2025-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Violence against civilians,3,3,2025,2025-01-01,2025-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Explosions/Remote violence,1,2,2025,2025-01-01,2025-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Riots,1,0,2025,2025-01-01,2025-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Protests,1,0,2025,2025-01-01,2025-12-31,46.8,5.4
+SOM,Somalia,SO-MU,Mudug,Battles,2,6,2025,2025-01-01,2025-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Violence against civilians,3,13,2025,2025-01-01,2025-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Explosions/Remote violence,1,4,2025,2025-01-01,2025-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Riots,1,0,2025,2025-01-01,2025-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Protests,1,0,2025,2025-01-01,2025-12-31,47.8,6.6
+SOM,Somalia,SO-NU,Nugaal,Battles,3,9,2025,2025-01-01,2025-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Violence against civilians,3,8,2025,2025-01-01,2025-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Explosions/Remote violence,2,8,2025,2025-01-01,2025-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Riots,1,0,2025,2025-01-01,2025-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Protests,1,0,2025,2025-01-01,2025-12-31,48.6,8.1
+SOM,Somalia,SO-BR,Bari,Battles,3,4,2025,2025-01-01,2025-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Violence against civilians,2,6,2025,2025-01-01,2025-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Explosions/Remote violence,1,3,2025,2025-01-01,2025-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Riots,1,0,2025,2025-01-01,2025-12-31,49.6,9.9
+SOM,Somalia,SO-SA,Sool,Battles,2,7,2025,2025-01-01,2025-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Violence against civilians,4,15,2025,2025-01-01,2025-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Explosions/Remote violence,1,2,2025,2025-01-01,2025-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Riots,1,0,2025,2025-01-01,2025-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Protests,1,0,2025,2025-01-01,2025-12-31,47.5,8.9
+SOM,Somalia,SO-SG,Sanaag,Battles,3,4,2025,2025-01-01,2025-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Violence against civilians,3,11,2025,2025-01-01,2025-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Explosions/Remote violence,2,7,2025,2025-01-01,2025-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Riots,1,0,2025,2025-01-01,2025-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Protests,1,0,2025,2025-01-01,2025-12-31,47.85,10.4
+SOM,Somalia,SO-TO,Togdheer,Battles,2,5,2025,2025-01-01,2025-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Violence against civilians,1,0,2025,2025-01-01,2025-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Explosions/Remote violence,1,2,2025,2025-01-01,2025-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Riots,1,0,2025,2025-01-01,2025-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Protests,1,0,2025,2025-01-01,2025-12-31,45.55,9.4
+SOM,Somalia,SO-AW,Awdal,Battles,4,2,2025,2025-01-01,2025-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Violence against civilians,3,6,2025,2025-01-01,2025-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Explosions/Remote violence,2,5,2025,2025-01-01,2025-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Riots,1,0,2025,2025-01-01,2025-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Protests,1,0,2025,2025-01-01,2025-12-31,43.3,10.45
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Battles,3,5,2025,2025-01-01,2025-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Violence against civilians,4,17,2025,2025-01-01,2025-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Explosions/Remote violence,2,5,2025,2025-01-01,2025-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Riots,2,0,2025,2025-01-01,2025-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Protests,1,0,2025,2025-01-01,2025-12-31,44.2,9.6
+SOM,Somalia,SO-SD,Middle Shabelle,Battles,4,3,2025,2025-01-01,2025-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Violence against civilians,3,3,2025,2025-01-01,2025-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Explosions/Remote violence,3,6,2025,2025-01-01,2025-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Riots,1,0,2025,2025-01-01,2025-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Protests,1,0,2025,2025-01-01,2025-12-31,45.65,2.85
+SOM,Somalia,SO-BN,Banadir,Battles,5,14,2026,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Violence against civilians,4,9,2026,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Explosions/Remote violence,2,8,2026,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Riots,1,0,2026,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-BN,Banadir,Protests,1,0,2026,2026-01-01,2026-12-31,45.32,2.04
+SOM,Somalia,SO-LJ,Lower Juba,Battles,8,19,2026,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Violence against civilians,5,20,2026,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Explosions/Remote violence,2,5,2026,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Riots,3,0,2026,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-LJ,Lower Juba,Protests,2,0,2026,2026-01-01,2026-12-31,42.35,0.3
+SOM,Somalia,SO-MJ,Middle Juba,Battles,5,10,2026,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Violence against civilians,6,24,2026,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Explosions/Remote violence,3,4,2026,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Riots,3,0,2026,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-MJ,Middle Juba,Protests,2,0,2026,2026-01-01,2026-12-31,42.6,1.65
+SOM,Somalia,SO-GD,Gedo,Battles,5,17,2026,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Violence against civilians,3,9,2026,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Explosions/Remote violence,3,10,2026,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Riots,2,0,2026,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-GD,Gedo,Protests,1,0,2026,2026-01-01,2026-12-31,42.1,3.25
+SOM,Somalia,SO-BY,Bay,Battles,2,6,2026,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Violence against civilians,3,9,2026,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Explosions/Remote violence,2,5,2026,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Riots,1,0,2026,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BY,Bay,Protests,1,0,2026,2026-01-01,2026-12-31,43.65,2.3
+SOM,Somalia,SO-BK,Bakool,Battles,5,15,2026,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Violence against civilians,4,13,2026,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Explosions/Remote violence,4,6,2026,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Riots,2,0,2026,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-BK,Bakool,Protests,2,0,2026,2026-01-01,2026-12-31,43.7,3.95
+SOM,Somalia,SO-SH,Lower Shabelle,Battles,3,3,2026,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Violence against civilians,3,3,2026,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Explosions/Remote violence,1,1,2026,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Riots,1,0,2026,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-SH,Lower Shabelle,Protests,1,0,2026,2026-01-01,2026-12-31,44.55,1.65
+SOM,Somalia,SO-WS,Hiraan,Battles,3,2,2026,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Violence against civilians,2,6,2026,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Explosions/Remote violence,2,6,2026,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Riots,1,0,2026,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-WS,Hiraan,Protests,1,0,2026,2026-01-01,2026-12-31,45.3,4.1
+SOM,Somalia,SO-GA,Galguduud,Battles,3,12,2026,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Violence against civilians,2,8,2026,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Explosions/Remote violence,2,3,2026,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Riots,1,0,2026,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-GA,Galguduud,Protests,1,0,2026,2026-01-01,2026-12-31,46.8,5.4
+SOM,Somalia,SO-MU,Mudug,Battles,4,15,2026,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Violence against civilians,4,13,2026,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Explosions/Remote violence,2,7,2026,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Riots,1,0,2026,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-MU,Mudug,Protests,1,0,2026,2026-01-01,2026-12-31,47.8,6.6
+SOM,Somalia,SO-NU,Nugaal,Battles,2,6,2026,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Violence against civilians,2,2,2026,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Explosions/Remote violence,1,2,2026,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Riots,1,0,2026,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-NU,Nugaal,Protests,1,0,2026,2026-01-01,2026-12-31,48.6,8.1
+SOM,Somalia,SO-BR,Bari,Battles,2,6,2026,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Violence against civilians,2,2,2026,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Explosions/Remote violence,1,0,2026,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Riots,1,0,2026,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-BR,Bari,Protests,1,0,2026,2026-01-01,2026-12-31,49.6,9.9
+SOM,Somalia,SO-SA,Sool,Battles,3,10,2026,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Violence against civilians,2,2,2026,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Explosions/Remote violence,1,0,2026,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Riots,1,0,2026,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SA,Sool,Protests,1,0,2026,2026-01-01,2026-12-31,47.5,8.9
+SOM,Somalia,SO-SG,Sanaag,Battles,2,3,2026,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Violence against civilians,2,2,2026,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Explosions/Remote violence,2,5,2026,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Riots,1,0,2026,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-SG,Sanaag,Protests,1,0,2026,2026-01-01,2026-12-31,47.85,10.4
+SOM,Somalia,SO-TO,Togdheer,Battles,3,12,2026,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Violence against civilians,3,8,2026,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Explosions/Remote violence,2,6,2026,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Riots,1,0,2026,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-TO,Togdheer,Protests,1,0,2026,2026-01-01,2026-12-31,45.55,9.4
+SOM,Somalia,SO-AW,Awdal,Battles,2,8,2026,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Violence against civilians,3,5,2026,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Explosions/Remote violence,2,4,2026,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Riots,1,0,2026,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-AW,Awdal,Protests,1,0,2026,2026-01-01,2026-12-31,43.3,10.45
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Battles,3,12,2026,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Violence against civilians,3,1,2026,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Explosions/Remote violence,1,3,2026,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Riots,2,0,2026,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-WG,Woqooyi Galbeed,Protests,1,0,2026,2026-01-01,2026-12-31,44.2,9.6
+SOM,Somalia,SO-SD,Middle Shabelle,Battles,3,13,2026,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Violence against civilians,3,9,2026,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Explosions/Remote violence,2,6,2026,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Riots,1,0,2026,2026-01-01,2026-12-31,45.65,2.85
+SOM,Somalia,SO-SD,Middle Shabelle,Protests,1,0,2026,2026-01-01,2026-12-31,45.65,2.85

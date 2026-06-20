@@ -1,0 +1,4 @@
+origin_location_code,origin_location_name,population,population_group,gender,age_range,reference_period_start,reference_period_end
+SDN,Sudan,2150000,REF,all,all,2025-01-01,2025-12-31
+SSD,South Sudan,2390000,REF,all,all,2025-01-01,2025-12-31
+SOM,Somalia,770000,REF,all,all,2025-01-01,2025-12-31

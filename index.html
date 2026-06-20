@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Humanitarian Data Model</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+</head>
+<body>
+<div class="shell">
+
+  <div class="masthead">
+    <div class="masthead-left">
+      <div>
+        <h1>Humanitarian Data Model</h1>
+      </div>
+    </div>
+    <div class="masthead-meta">
+      <div id="scope-line"></div>
+      <div><span class="live-dot"></span>Mock dataset — illustrative figures</div>
+      <div>Generated for demo purposes</div>
+    </div>
+  </div>
+
+  <!-- Use case selector strip -->
+  <div class="usecase-strip" id="usecase-strip"></div>
+
+  <!-- Use case framing: question + domains (updated when selection changes) -->
+  <div class="panel-card panel-pad usecase-framing-box" id="usecase-framing"></div>
+
+  <!-- Cross-domain query result — labelled and domain-attributed inside renderInsight() -->
+  <div class="insight-box" id="insight-box">Loading…</div>
+
+  <!-- Controls -->
+  <div class="filters-heading">
+    <span class="filters-heading-label">Active filters</span>
+    <span class="filters-heading-hint">Adjust countries, indicators, and geographic level — everything below updates live.</span>
+  </div>
+  <div class="controls">
+    <div class="ctrl-box">
+      <div class="ctrl-label">Country</div>
+      <div class="tag-group" id="country-tags">
+        <span class="tag country on sdn" data-v="SDN">Sudan</span>
+        <span class="tag country on ssd" data-v="SSD">South Sudan</span>
+        <span class="tag country on som" data-v="SOM">Somalia</span>
+      </div>
+    </div>
+    <div class="ctrl-box">
+      <div class="ctrl-label">Indicator domain</div>
+      <div class="tag-group" id="indicator-tags">
+        <span class="tag" data-v="idp">IDPs</span>
+        <span class="tag" data-v="food">Food security</span>
+        <span class="tag" data-v="refugee">Refugees</span>
+        <span class="tag" data-v="conflict">Conflict events</span>
+        <span class="tag" data-v="funding">Funding</span>
+        <span class="tag" data-v="needs">Humanitarian needs</span>
+      </div>
+      <div id="indicator-hint" style="font-size:11px;color:var(--ink-300);margin-top:7px;display:none">Indicators are preset for this use case — switch to <b>Select your own query</b> to choose your own.</div>
+    </div>
+    <div class="ctrl-box">
+      <div class="ctrl-label">Geographic level</div>
+      <div class="tag-group" id="admin-tags">
+        <span class="tag on" data-v="0">National</span>
+        <span class="tag" data-v="1">Admin 1</span>
+      </div>
+      <div style="font-size:11px;color:var(--ink-300);margin-top:7px">Shows one level at a time — figures aren't summed across levels.</div>
+    </div>
+  </div>
+
+  <!-- Tabs -->
+  <div class="tab-row">
+    <div class="tab active" data-tab="infographic">Infographic</div>
+    <div class="tab" data-tab="table">Joint table</div>
+    <div class="tab" data-tab="map">Map</div>
+    <div class="tab" data-tab="ask">Ask ✦</div>
+  </div>
+
+  <div id="panel-infographic">
+    <div class="metric-row" id="metric-cards"></div>
+    <div id="chart-area"></div>
+  </div>
+
+  <div id="panel-table" style="display:none">
+    <div id="tbl-wrap"></div>
+  </div>
+
+  <div id="panel-map" style="display:none">
+    <div class="panel-card map-wrap">
+      <div class="panel-title">Geographic distribution <span class="hint">always shown at admin-1 — the geographic level filter applies to the table and infographic</span></div>
+      <div class="ctrl-label" style="margin-top:2px">Bubble indicator</div>
+      <div class="tag-group" id="map-indicator-tags" style="margin-bottom:12px"></div>
+      <div class="map-stage" id="map-stage"></div>
+      <div class="map-legend" id="map-legend"></div>
+      <div class="source-note">Country shapes are simplified for display, not survey-grade boundaries. Admin-1 positions reflect real approximate centroids. Sources: IOM/DTM · FEWS NET/IPC · OCHA HPC · ACLED (mock data, see footer)</div>
+    </div>
+  </div>
+
+  <div id="panel-ask" style="display:none">
+    <div class="panel-card panel-pad query-input-section">
+      <div class="query-input-heading">
+        <span class="query-input-icon">✦</span>
+        Ask a question about the data
+        <span class="query-input-sub">Queries run against the loaded mock dataset and the filters selected above.</span>
+      </div>
+      <div class="query-input-row">
+        <input type="text" id="nl-query-input" placeholder="e.g. Which admin 1 in Sudan has the worst overlap of IDPs and food insecurity?" />
+        <button class="btn query-btn" id="nl-query-btn">Ask ↗</button>
+      </div>
+      <div class="query-suggestions" id="query-suggestions"></div>
+      <div id="nl-answer-area"></div>
+      <div class="source-note" style="margin-top:8px">Powered by Claude · answers from the loaded mock dataset only — not live HAPI data</div>
+    </div>
+  </div>
+
+  <div class="footer-note">
+    DATA NOTE — All figures shown are synthetically generated to a plausible real-world order of magnitude, for demonstration purposes only — they are not live figures. The underlying structure, field names, and cross-domain joins mirror the real HAPI schema (IOM/DTM, FEWS NET/IPC, UNHCR, ACLED, FTS, OCHA HPC), so this interface is designed to plug into that live data with minimal rework — see data-layer.js → loadData().
+  </div>
+
+</div>
+
+<script src="data/bundle.js"></script>
+<script src="data-layer.js"></script>
+<script src="usecases.js"></script>
+<script src="infographic.js"></script>
+<script src="table.js"></script>
+<script src="map.js"></script>
+<script>
+function renderScopeLine() {
+  const el = document.getElementById('scope-line');
+  const C = [...activeCountries].map(c => CNAMES[c]);
+  const countryStr = C.length === 3 ? 'Sudan · South Sudan · Somalia' : (C.join(' · ') || 'No country selected');
+  el.innerHTML = `<strong>${countryStr}</strong>`;
+}
+
+function renderAll() {
+  renderScopeLine();
+  renderUsecaseStrip();
+  renderUsecaseFraming();
+  renderInsight();
+  renderQuerySuggestions();
+  renderMetricCards();
+  renderCharts();
+  renderTable();
+  if (activeTab === 'map') renderMap();
+}
+
+// Country tag toggle
+document.querySelectorAll('#country-tags .tag').forEach(t => {
+  t.addEventListener('click', () => {
+    const v = t.dataset.v;
+    if (activeCountries.has(v) && activeCountries.size > 1) { activeCountries.delete(v); t.classList.remove('on'); }
+    else { activeCountries.add(v); t.classList.add('on'); }
+    renderAll();
+  });
+});
+
+// Indicator tag toggle (only meaningful in explorer mode)
+document.querySelectorAll('#indicator-tags .tag').forEach(t => {
+  t.addEventListener('click', () => {
+    const v = t.dataset.v;
+    if (activeUsecase !== 'explorer') {
+      // First click while locked: jump to explorer with just this indicator active
+      activeUsecase = 'explorer';
+      activeIndicators = new Set([v]);
+      renderUsecaseStrip();
+      syncIndicatorTags();
+      renderAll();
+      return;
+    }
+    if (activeIndicators.has(v)) { activeIndicators.delete(v); t.classList.remove('on'); }
+    else { activeIndicators.add(v); t.classList.add('on'); }
+    renderAll();
+  });
+});
+
+// Admin level toggle — single-select, mutually exclusive
+document.querySelectorAll('#admin-tags .tag').forEach(t => {
+  t.addEventListener('click', () => {
+    adminLevel = parseInt(t.dataset.v, 10);
+    document.querySelectorAll('#admin-tags .tag').forEach(x => x.classList.toggle('on', parseInt(x.dataset.v, 10) === adminLevel));
+    renderAll();
+  });
+});
+
+// Tabs
+document.querySelectorAll('.tab').forEach(t => {
+  t.addEventListener('click', () => {
+    document.querySelectorAll('.tab').forEach(x => x.classList.remove('active'));
+    t.classList.add('active');
+    activeTab = t.dataset.tab;
+    document.getElementById('panel-infographic').style.display = activeTab === 'infographic' ? 'block' : 'none';
+    document.getElementById('panel-table').style.display = activeTab === 'table' ? 'block' : 'none';
+    document.getElementById('panel-map').style.display = activeTab === 'map' ? 'block' : 'none';
+    document.getElementById('panel-ask').style.display = activeTab === 'ask' ? 'block' : 'none';
+    if (activeTab === 'map') renderMap();
+    if (activeTab === 'ask') renderQuerySuggestions();
+  });
+});
+
+// Natural language query box
+const NL_SUGGESTIONS = {
+  'funding-gap': [
+    'Which country has the largest funding gap per person in need?',
+    'How does South Sudan\'s funding coverage compare to Somalia\'s?',
+    'What would full funding coverage cost across all three countries?'
+  ],
+  'displacement': [
+    'Which admin-1 in Sudan has the most IDPs and food insecure people combined?',
+    'How has displacement changed in the past 12 months?',
+    'Is there a country where refugees exceed IDPs?'
+  ],
+  'emergency-response': [
+    'How does Sudan\'s L3 funding coverage compare to L2 countries?',
+    'Which country has the biggest gap between people in need and people targeted?',
+    'Is the conflict trend consistent with the emergency level declared?'
+  ],
+  'explorer': [
+    'Which country has the most IDPs relative to its refugee outflow?',
+    'Compare funding coverage across the three countries',
+    'Which admin-1 region shows the worst overlap of displacement and food insecurity?'
+  ]
+};
+
+function renderQuerySuggestions() {
+  const el = document.getElementById('query-suggestions');
+  if (!el) return;
+  const sug = NL_SUGGESTIONS[activeUsecase] || NL_SUGGESTIONS['explorer'];
+  el.innerHTML = sug.map(s => `<span class="chip" onclick="setNLQuery('${s.replace(/'/g, "\\'")}')">${s}</span>`).join('');
+}
+
+function setNLQuery(q) {
+  const el = document.getElementById('nl-query-input');
+  if (el) { el.value = q; el.focus(); }
+}
+
+async function runQuery() {
+  const input = document.getElementById('nl-query-input');
+  const answerEl = document.getElementById('nl-answer-area');
+  const q = input?.value?.trim();
+  if (!q || !answerEl) return;
+  answerEl.innerHTML = '<div class="nl-answer nl-answer-loading">Analysing…</div>';
+
+  const idps = getRecentIDPs(), food35 = getFoodInsecure35(), refs = getRefugees(),
+        funding = getFunding(), pin = getPIN(), conflictByC = getConflictByCountry(2026);
+  const snapshot = {
+    countries: [...activeCountries].map(c => CNAMES[c]),
+    active_use_case: USECASES[activeUsecase]?.title,
+    idps: Object.fromEntries(Object.entries(idps).map(([k,v]) => [CNAMES[k], v])),
+    food_insecure_ipc3plus: Object.fromEntries(Object.entries(food35).map(([k,v]) => [CNAMES[k], v])),
+    refugees_origin: Object.fromEntries(Object.entries(refs).map(([k,v]) => [CNAMES[k], v])),
+    people_in_need: Object.fromEntries(Object.entries(pin).map(([k,v]) => [CNAMES[k], v])),
+    funding: Object.fromEntries(Object.entries(funding).map(([k,v]) => [CNAMES[k], v])),
+    conflict_events_2026: Object.fromEntries(Object.entries(conflictByC).map(([k,v]) => [CNAMES[k], v]))
+  };
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'anthropic-dangerous-direct-browser-access': 'true' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-6',
+        max_tokens: 1000,
+        system: 'You are a humanitarian data analyst. Answer questions using ONLY the provided JSON data snapshot. Be concise and factual — cite specific numbers. 2–5 sentences max. If data is missing or insufficient say so clearly. Do not speculate beyond the data.',
+        messages: [{ role: 'user', content: `Data snapshot:\n${JSON.stringify(snapshot, null, 2)}\n\nQuestion: ${q}` }]
+      })
+    });
+    const data = await res.json();
+    const text = data.content?.[0]?.text || 'No response.';
+    answerEl.innerHTML = `<div class="nl-answer">${text}</div>`;
+  } catch (e) {
+    answerEl.innerHTML = `<div class="nl-answer nl-answer-error">Unable to reach the API from this environment. Download the file and open locally, or host on GitHub Pages — the Anthropic API is accessible from browsers but not from Claude's own sandbox.</div>`;
+  }
+}
+
+document.getElementById('nl-query-input')?.addEventListener('keydown', e => {
+  if (e.key === 'Enter') runQuery();
+});
+document.getElementById('nl-query-btn')?.addEventListener('click', runQuery);
+loadData();
+syncIndicatorTags();
+renderUsecaseStrip();
+renderMapControls();
+renderAll();
+</script>
+</body>
+</html>

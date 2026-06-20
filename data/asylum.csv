@@ -1,0 +1,4 @@
+asylum_location_code,asylum_location_name,population,population_group,gender,age_range,reference_period_start,reference_period_end
+SDN,Sudan,1140000,REF,all,all,2025-01-01,2025-12-31
+SSD,South Sudan,380000,REF,all,all,2025-01-01,2025-12-31
+SOM,Somalia,35000,REF,all,all,2025-01-01,2025-12-31
