@@ -24,9 +24,53 @@
       <div><span class="live-dot"></span>Mock dataset — illustrative figures</div>
       <div>Generated for demo purposes</div>
     </div>
+    <button class="help-btn" id="help-btn" aria-label="How to use this tool">?</button>
   </div>
 
-  <!-- Use case selector strip -->
+  <!-- Help overlay -->
+  <div class="help-overlay" id="help-overlay" aria-modal="true" role="dialog" aria-label="How to use">
+    <div class="help-card">
+      <button class="help-close" id="help-close" aria-label="Close">✕</button>
+      <div class="help-header">
+        <div class="help-title">How to use this tool</div>
+        <div class="help-subtitle">The Humanitarian Data Model demo lets you query across displacement, food security, conflict, funding, and humanitarian needs data — joined on a shared geography.</div>
+      </div>
+      <div class="help-steps">
+        <div class="help-step">
+          <div class="help-step-num">1</div>
+          <div>
+            <div class="help-step-title">Pick an example query</div>
+            <div class="help-step-desc">At the top, choose one of the three <b>Example queries</b> — pre-built cross-domain questions like "Where is the response most underfunded?". The query result below updates immediately.</div>
+          </div>
+        </div>
+        <div class="help-step">
+          <div class="help-step-num">2</div>
+          <div>
+            <div class="help-step-title">Read the query result</div>
+            <div class="help-step-desc">The <b>Query result</b> box gives a one-paragraph synthesis across the selected domains — it updates live whenever you change a filter.</div>
+          </div>
+        </div>
+        <div class="help-step">
+          <div class="help-step-num">3</div>
+          <div>
+            <div class="help-step-title">Adjust filters or build your own query</div>
+            <div class="help-step-desc">Use the <b>Country</b>, <b>Indicator domain</b>, and <b>Geographic level</b> controls to narrow the scope of any example query — or switch to <b>Select your own query</b> to freely combine indicators across domains.</div>
+          </div>
+        </div>
+        <div class="help-step">
+          <div class="help-step-num">4</div>
+          <div>
+            <div class="help-step-title">Explore the views</div>
+            <div class="help-step-desc">Switch between <b>Infographic</b> (charts + headline numbers), <b>Joint table</b> (a modular cross-domain table that adjusts live to your filters and can be exported as CSV), and <b>Map</b> (proportional symbols at admin-1 level).</div>
+          </div>
+        </div>
+      </div>
+      <div class="help-footer">
+        <div class="help-footer-note">Data is synthetic — generated to a plausible real-world order of magnitude for demo purposes.</div>
+        <button class="btn help-got-it" id="help-got-it">Got it</button>
+      </div>
+    </div>
+  </div>
   <div class="usecase-strip" id="usecase-strip"></div>
 
   <!-- Use case framing: question + domains (updated when selection changes) -->
@@ -67,7 +111,7 @@
         <span class="tag on" data-v="0">National</span>
         <span class="tag" data-v="1">Admin 1</span>
       </div>
-      <div style="font-size:11px;color:var(--ink-300);margin-top:7px">Shows one level at a time.</div>
+      <div style="font-size:11px;color:var(--ink-300);margin-top:7px">Shows one level at a time — figures aren't summed across levels.</div>
     </div>
   </div>
 
@@ -285,6 +329,13 @@ syncIndicatorTags();
 renderUsecaseStrip();
 renderMapControls();
 renderAll();
+
+// Help overlay
+const helpOverlay = document.getElementById('help-overlay');
+document.getElementById('help-btn').addEventListener('click', () => helpOverlay.classList.add('open'));
+document.getElementById('help-close').addEventListener('click', () => helpOverlay.classList.remove('open'));
+document.getElementById('help-got-it').addEventListener('click', () => helpOverlay.classList.remove('open'));
+helpOverlay.addEventListener('click', e => { if (e.target === helpOverlay) helpOverlay.classList.remove('open'); });
 </script>
 </body>
 </html>
